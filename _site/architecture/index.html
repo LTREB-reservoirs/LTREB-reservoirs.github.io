@@ -1,0 +1,369 @@
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.18.1 by Michael Rose
+  Copyright 2013-2019 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
+-->
+<html lang="en" class="no-js">
+  <head>
+    <meta charset="utf-8">
+
+<!-- begin _includes/seo.html --><title>Software Architecture - FLARE</title>
+<meta name="description" content=" ">
+
+
+
+<meta property="og:type" content="website">
+<meta property="og:locale" content="en_US">
+<meta property="og:site_name" content="FLARE">
+<meta property="og:title" content="Software Architecture">
+<meta property="og:url" content="/architecture/">
+
+
+  <meta property="og:description" content=" ">
+
+
+
+  <meta property="og:image" content="/assets/images/banner.jpg">
+
+
+
+
+
+
+
+
+
+  
+
+  
+
+
+<link rel="canonical" href="/architecture/">
+
+
+
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    
+      "@type": "Person",
+      "name": "",
+      "url": "/"
+    
+  }
+</script>
+
+
+
+
+
+
+<!-- end _includes/seo.html -->
+
+
+<link href="/feed.xml" type="application/atom+xml" rel="alternate" title="FLARE Feed">
+
+<!-- https://t.co/dKP3o1e -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="/assets/css/main.css">
+
+<!--[if IE]>
+  <style>
+    /* old IE unsupported flexbox fixes */
+    .greedy-nav .site-title {
+      padding-right: 3em;
+    }
+    .greedy-nav button {
+      position: absolute;
+      top: 0;
+      right: 0;
+      height: 100%;
+    }
+  </style>
+<![endif]-->
+
+
+
+    <!-- start custom head snippets -->
+
+<!-- insert favicons. use https://realfavicongenerator.net/ -->
+
+<!-- end custom head snippets -->
+
+  </head>
+
+  <body class="layout--splash">
+    <nav class="skip-links">
+  <h2 class="screen-reader-text">Skip links</h2>
+  <ul>
+    <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
+    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
+    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
+  </ul>
+</nav>
+
+    <!--[if lt IE 9]>
+<div class="notice--danger align-center" style="margin: 0;">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience.</div>
+<![endif]-->
+
+    
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        
+        <a class="site-title" href="/">
+          FLARE
+          <span class="site-subtitle">Forecasting Lake And Reservoir Ecosystems</span>
+        </a>
+        <ul class="visible-links"><li class="masthead__menu-item">
+              <a href="/about" >About</a>
+            </li><li class="masthead__menu-item">
+              <a href="/documentation" >Documentation</a>
+            </li><li class="masthead__menu-item">
+              <a href="/architecture" >Software</a>
+            </li><li class="masthead__menu-item">
+              <a href="/team" >Team</a>
+            </li><li class="masthead__menu-item">
+              <a href="/partners" >Partners</a>
+            </li><li class="masthead__menu-item">
+              <a href="/contact" >Contact</a>
+            </li></ul>
+        
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">Toggle menu</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+
+    <div class="initial-content">
+      
+  
+
+
+
+
+
+
+
+
+
+
+
+<div class="page__hero--overlay"
+  style="background-color: #5e616c; background-image: url('/assets/images/banner.jpg');"
+>
+  
+    <div class="wrapper">
+      <h1 id="page-title" class="page__title" itemprop="headline">
+        
+          Software Architecture
+
+        
+      </h1>
+      
+      
+      
+      
+    </div>
+  
+  
+</div>
+
+
+
+<div id="main" role="main">
+  <article class="splash" itemscope itemtype="https://schema.org/CreativeWork">
+    <meta itemprop="headline" content="Software Architecture">
+    
+    
+    
+
+    <section class="page__content" itemprop="text">
+      <h1 id="introduction">Introduction</h1>
+
+<p>This document describes the software architecture of FLARE, at a high level - not diving deep into the code, but overviewing the major modules and their interactions. The target audience of this document consists of 1) researchers who are interested in learning the underpinnings of FLARE, 2) prospective forecasters who are interested in deploying FLARE for their own lake, and 3) developers interested in contributing to the FLARE code base.</p>
+
+<h1 id="background">Background</h1>
+
+<p>The key aspects underpinning the architecture and design of FLARE are:</p>
+
+<ul>
+  <li>Open-source: all FLARE modules are based on open-source software</li>
+  <li>End-to-end: FLARE has modules that span computing, networking, and storage resources near sensors in the field (at the network’s edge) as well as in the cloud</li>
+  <li>Container-based: major FLARE software modules are encapsulated and deployed as <a href="https://docker.com">Docker containers</a>, allowing them to be deployed consistently in any cloud platform that supports Docker</li>
+  <li>Event-based automation: for automated forecasting workflows, major FLARE software modules are invoked through the <a href="https://openwhisk.apache.org/">OpenWhisk</a> event-driven framework - essentially deploying FLARE containers on demand, in response to events such as timers and data availability</li>
+  <li>Manual execution possible: while focused on automated forecasting use cases, FLARE containers can also execute in a stand-alone, manual mode for development and testing</li>
+</ul>
+
+<h1 id="overview-and-terminology">Overview and terminology</h1>
+
+<p>FLARE integrates several technologies and standards to deliver a scalable, generalizable end-to-end systems. These include Docker containers, OpenWhisk event-driven processing, Git storage services, sensors, IoT gateways, and network virtualization. To get started, the following diagram provides an overview of the major hardware building blocks of FLARE:</p>
+
+<p><img src="/assets/images/FLARE_arch_overview_1.png" alt="FLARE building blocks" /></p>
+
+<p>FLARE includes components that are deployed both “in the cloud” (compute and storage servers) and at the edge (in the field, physically near sensors at the lake/reservoir being used).</p>
+
+<h2 id="edge-resources">Edge resources</h2>
+
+<p>At the edge, a FLARE deployment has the following hardware building blocks:</p>
+
+<ul>
+  <li>Sensor: sensors collect the various types of data (e.g. meteorology, water temperature, chemistry) that are needed to drive forecasts. Different lakes may have different sets of sensors, and these may be deployed at different sites (e.g. at platform/buoy, or at an inflow)</li>
+  <li>Data logger: each sensor must be connected to a data logger that records and buffers sensor data at programmable interval, and multiple sensors may be connected to a single data logger. To work with FLARE, the data logger must have the capability to allow data to be programmatically retrieved from the data logger by an external device (gateway, see below) using a well-defined interface (e.g. FTP over Ethernet/USB). One example of a device that is supported is the <a href="https://www.campbellsci.com/cr6">Campbell Scientific CR6 logger</a>.</li>
+  <li>Gateway: the gateway is a small, field-deployable computer. To work with FLARE, the gateway must have the capability of <a href="https://github.com/FLARE-forecast/FLARE/wiki/Gateway-Setup">running FLARE software (in particular, Ubuntu Linux)</a>, and must be connected to the Internet (typically via a cellular modem). The gateway (along with the data logger) may be powered intermittently when connected to a battery and/or solar panel setup, with the help of a <a href="https://smile.amazon.com/JVR-Programmable-Digital-Battery-Powered/dp/B00WR0ELCO/ref=sr_1_1?dchild=1&amp;keywords=timer+switch+coop&amp;qid=1599764243&amp;sr=8-1">timer switche</a>. An example hardware gateway used in FLARE deployments is the <a href="https://fit-iot.com/web/products/fitlet2/">Fitlet2</a></li>
+  <li>Cellular modem: to satisfy the requirement of Internet connectivity of the gateway, the typical deployment of FLARE uses a cellular modem attached to the gateway. The modem may be attached physically (e.g. a USB modem) or wirelessly (e.g. a Wi-Fi hotspot). It is key that the cellular signal and service are available at the site where the modem is deployed, and that a data plan is setup. Typical sensors in FLARE do not require large data transfers, but it is key to have stable connectivity to allow for daily updates of data/system logs to be transferred over the network. The modem does not need to expose a public IP address - FLARE can work with private IP addresses by using the EdgeVPN.io virtual network.</li>
+</ul>
+
+<h2 id="cloud-resources">Cloud resources</h2>
+
+<p>In the cloud, a FLARE deployment has the following hardware building blocks:</p>
+
+<ul>
+  <li>Storage server: one or more servers are needed to store data (inputs, working data, and outputs) used by the various FLARE modules</li>
+  <li>Compute server: one or more servers are needed to run FLARE processing steps (e.g. data preparation, model execution, data assimilation)</li>
+</ul>
+
+<h1 id="major-software-modules">Major software modules</h1>
+
+<p>The following diagram expands on the previous figure to provide an overview of the major software modules that make up the end-to-end FLARE system:</p>
+
+<p><img src="/assets/images/FLARE_arch_overview_2.png" alt="FLARE software modules" /></p>
+
+<ul>
+  <li>Logger scripts: these are deployed on the data logger and/or gateways, and are responsible for implementing a method for retrieving data from the logger by the gateway. For instance, with Campbell data loggers, a script is uploaded to the logger to act as an FTP client, and the gateway is setup as an FTP server</li>
+  <li>Git client: this is deployed at gateway(s), and use the Git protocol to push sensor data updates to cloud storage server(s)</li>
+  <li>Edge processing: optionally, modules can be deployed on the gateway to perform additional processing at the edge, before data is pushed. Currently, the main edge processing done in FLARE is data preparation for uploads, through Git</li>
+  <li>EdgeVPN: this runs an endpoint of the <a href="https://edgevpn.io">EdgeVPN.io</a> virtual network to provide secure, private connectivity to the gateway</li>
+  <li>Git servers: <a href="https://github.com/FLARE-forecast/FLARE/wiki/Role-of-Git-in-FLARE">FLARE uses the Git protocol and storage services</a> as a foundation to support data movement throughout the end-to-end workflow. This allows flexibility in choosing from one or more Git services to store FLARE data. In one method of FLARE deployment, a public Git server (e.g. <a href="https://github.com">Github</a>) can be used to store input/output data, and a private Git server (e.g. a <a href="https://github.com/FLARE-forecast/FLARE/wiki/gitlab-server-configuration-and-use">Gitlab-based container</a>) is used to store intermediate data used by FLARE containers</li>
+  <li>OpenWhisk controller: This runs the controller for the OpenWhisk event-driven software, which takes events (such as timers, or notifications that new sensor data is available) to trigger the invocation of various FLARE modules</li>
+  <li>Openwhisk invoker: this runs the various FLARE containers that are triggered by the events orchestrated by the controller</li>
+</ul>
+
+<h1 id="workflow-overview">Workflow overview</h1>
+
+<p>With the major hardware and software modules as described, the following figure overviews a typical workflow of a FLARE forecast:</p>
+
+<p><img src="/assets/images/FLARE_arch_overview_3.png" alt="FLARE workflow overview" /></p>
+
+<ul>
+  <li>First, data is read from the data logger and buffered on local storage at the gateway, for instance with a daily period</li>
+  <li>Then, data is prepared for a Git push; optionally, data is also pre-processed at the edge</li>
+  <li>Next, data is pushed over the network to one or more Git servers. This is done securely over ssh (if a public server is used) and also over EdgeVPN (if a private server is used)</li>
+  <li>Next, events (such as timers, or a notification of a Git push to a repository) are handled by the OpenWhisk controller, and trigger actions</li>
+  <li>Finally, a sequence of actions take place and execute on OpenWhisk invoker nodes, and run the various modules used by FLARE to prepare inputs, assimilate data and run ensemble models to generate forecasts, and prepare data for archival and/or visualization, as shown below:</li>
+</ul>
+
+<p><img src="/assets/images/FLARE_arch_overview_4.png" alt="FLARE triggers and actions" /></p>
+
+<h1 id="flare-r-package-and-containers">FLARE R package and containers</h1>
+
+<p>The core of the FLARE workflow is implemented by the <a href="https://github.com/rqthomas/flare/">FLARE R package</a>, which is deployed across the following containers.</p>
+
+<p><img src="/assets/images/FLARE_arch_overview_5.png" alt="FLARE containers" /></p>
+
+<ul>
+  <li>flare-download-noaa: downloads weather forecasts from NOAA external Web services</li>
+  <li>flare-download-data: downloads sensor data from FLARE Git repositories</li>
+  <li>flare-process-observations: process observations to produce driver data for model execution</li>
+  <li>flare-generate-forecast: runs ensemble models to generate forecasts. Currently, FLARE supports Ensemble Kalman filtering and the <a href="https://aed.see.uwa.edu.au/research/models/GLM/">GLM General Lake Model</a></li>
+  <li>flare-visualize: create visualization plots of forecast outputs</li>
+</ul>
+
+<h1 id="software-repositories-and-additional-documentation">Software repositories and additional documentation</h1>
+
+<p>If you would like to learn more details about configuring and deploying FLARE, <a href="https://github.com/FLARE-forecast/FLARE/wiki">please visit the FLARE Wiki</a></p>
+
+<p>Our software is distributed along the following repositories:</p>
+
+<ul>
+  <li><a href="https://github.com/rqthomas/flare/">FLARE R package</a></li>
+  <li><a href="https://github.com/FLARE-forecast/FLARE-containers">FLARE containers</a></li>
+</ul>
+
+
+    </section>
+  </article>
+</div>
+
+    </div>
+
+    
+
+    <div id="footer" class="page__footer">
+      <footer>
+        <!-- start custom footer snippets -->
+
+<!-- end custom footer snippets -->
+        <!--<div class="page__footer-follow">
+  <ul class="social-icons">
+    
+      <li><strong>Follow:</strong></li>
+    
+
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+
+    <li><a href="/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+  </ul>
+</div>-->
+<div class="page__footer-copyright" style="float: right; ">
+  <a href="https://nsf.gov"><img src="/assets/images/nsf-logo.png" style="padding: 5px;" /></a>
+  <a href="https://vt.edu"><img src="/assets/images/vt-logo.png" style="padding: 5px;" /></a><br />
+  <a href="https://ufl.edu"><img src="/assets/images/uf-logo.png" style="padding: 5px;" /></a>
+  <a href="https://acis.ufl.edu"><img src="/assets/images/acis-logo.png" style="padding: 5px;" /></a>
+</div>
+<div class="page__footer-copyright">
+<em>FLARE</em> is a collaboration among:<br />
+ACIS Lab, Department of Electrical & Computer Engineering, University of Florida</br/>
+Department of Forest Resources & Environmental Conservation, Virginia Tech<br />
+Department of Biological Sciences, Virginia Tech<br />
+<em>FLARE</em> is supported by the US National Science Foundation as part of awards CNS-1737424, DBI-1933102, and DBI-1933016​.<br />
+&copy; 2021 FLARE. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+
+      </footer>
+    </div>
+
+    
+  <script src="/assets/js/main.min.js"></script>
+  <script src="https://kit.fontawesome.com/4eee35f757.js"></script>
+
+
+
+
+
+
+
+
+
+
+  </body>
+</html>

@@ -1,0 +1,275 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+.masthead {
+    border-bottom: 5px solid #0092ca;
+}
+
+.greedy-nav a.site-title {
+    opacity: 0%;
+    width: 240px;
+    height: 99px;
+}
+
+.masthead__inner-wrap nav {
+    background: #fff url(../images/logo.jpg) no-repeat left top;
+    height: 99px;
+}
+
+h3 {
+	font-size: .95em;
+}
+
+/*
+* Copied from SmartReservoir.org
+*/
+
+.page {
+	width: 100%;
+	padding-right: 0;
+}
+
+body {
+	font-family: proxima-nova,"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: museo-slab,Georgia,"Times New Roman",Times,serif;
+	font-weight: 500;
+	color: #286c8d;
+	margin: 1em 0 .85em;
+	clear: left;
+	padding-top: 1em;
+}
+
+.greedy-nav a {
+    margin: 0 0.5rem;
+}
+
+.page__footer {
+	border-top: 5px solid #286c8d;
+}
+
+.greedy-nav a {
+	color: #286c8d;
+}
+
+.greedy-nav a:hover {
+	color: #6C9AC3;
+}
+
+.greedy-nav button, .greedy-nav .visible-links a:before {
+	background-color: #6C9AC3;
+}
+
+.page__hero--overlay .page__title, .page__hero--overlay .page__meta, .page__hero--overlay .comment__date, .page__hero--overlay .page__lead, .page__hero--overlay .btn, .page__hero--overlay #goog-wm-sb {
+	color: #fff;
+	text-shadow: 1px 1px 4px rgba(0, 0, 0, 1);
+}
+
+.page__hero--overlay {
+	padding: 1em 0 0;
+}
+
+.float-right {
+	float: right;
+}
+
+.float-left {
+	float: left;
+}
+
+.clear-both {
+	clear: both;
+}
+
+.page__footer {
+	color: #6C9AC3;
+}
+
+.page__footer .fa {
+	color: inherit;
+}
+
+.padding-right-bottom {
+	padding: 0 .5em .5em 0;
+}
+
+a {
+	text-decoration: none;
+}
+
+.page__hero--overlay .page__title {
+    font-size: 2.441em;
+}
+
+
+.btn--primary {
+    background-color: #286c8d;
+}
+
+.btn--primary:hover {
+    background-color: #6C9AC3;
+}
+
+.btn--primary:visited {
+	background-color: unset;
+}
+
+.profile-img {
+	clear: both;
+	float: left;
+	border-radius: 4px;
+	margin: 2em 1em 0 0;
+	width: 100%;
+}
+
+.page__footer-copyright {
+    font-family: -apple-system,".SFNSText-Regular","San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;
+    font-size: .6875em;
+}
+
+.footer-address, .footer-sponsor {
+	float: left;
+}
+
+.footer-links {
+	float: right;
+}
+
+.small {
+	font-size: 0.7em;
+}
+
+.bio {
+	font-size: 0.8em;
+}
+
+@media (max-width: 37.5em) {
+	.footer-links, .footer-sponsor {
+		float: left;
+		clear: both;
+	}
+}
+
+.one-fourth {
+  width: span(1 of 4);
+  margin-right: gutter(of 4);
+  float: left;
+}
+
+.one-fourth-last {
+  width: span(1 of 4);
+  float: left;
+  clear: right;
+}
+
+.one-third {
+  width: span(1 of 3);
+  margin-right: gutter(of 3);
+  float: left;
+}
+
+.two-third {
+  width: span(2 of 3);
+  margin-right: gutter(of 3);
+  float: left;
+}
+
+.one-third-last {
+  width: span(1 of 3);
+  float: left;	
+  clear: right;
+}
+
+.one-third-right {
+  width: span(1 of 3);
+  float: right;
+  margin-left: 1em;
+}
+
+.one-half {
+  width: span(1 of 2 set-gutters 1em);
+  margin-right: 1em;
+  float: left;
+}
+
+.one-half-last {
+  width: span(1 of 2 set-gutters 1em);
+  float: left;	
+  clear: right;
+}
+
+@media (min-width: 20em) and (max-width: 48em) {
+
+	.one-fourth {
+	  width: span(1 of 2);
+	}
+
+	.one-fourth-last {
+	  width: span(1 of 2);
+	}
+
+	.one-third {
+	  width: span(1 of 2);
+	}
+
+	.one-third-last {
+	  width: span(1 of 2);
+	}
+
+	.two-third {
+	  width: span(1 of 2);
+	}
+
+	.one-half {
+	  width: span(1 of 1);
+	}
+
+	.one-half-last {
+	  width: span(1 of 1);
+	}
+
+}
+
+@media (max-width: 20em) {
+
+	.one-fourth {
+	  width: span(1 of 1);
+	}
+
+	.one-fourth-last {
+	  width: span(1 of 1);
+	}
+
+	.one-third {
+	  width: span(1 of 1);
+	}
+
+	.one-third-last {
+	  width: span(1 of 1);
+	}
+
+	.two-third {
+	  width: span(1 of 1);
+	}
+
+	.one-third-right {
+	  width: span(1 of 1);
+	}
+
+	.one-half {
+	  width: span(1 of 1);
+	}
+
+	.one-half-last {
+	  width: span(1 of 1);
+	}
+
+}

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>/about/</loc>
+</url>
+<url>
+<loc>/architecture/</loc>
+</url>
+<url>
+<loc>/contact/</loc>
+</url>
+<url>
+<loc>/documentation/</loc>
+</url>
+<url>
+<loc>/</loc>
+</url>
+<url>
+<loc>/partners/</loc>
+</url>
+<url>
+<loc>/team/</loc>
+</url>
+<url>
+<loc>/assets/CIBRAuthorshipGuidelines_v1_17June2020.pdf</loc>
+<lastmod>2021-05-02T14:16:17-04:00</lastmod>
+</url>
+<url>
+<loc>/assets/docker_installation_windows.pdf</loc>
+<lastmod>2021-05-02T14:16:17-04:00</lastmod>
+</url>
+</urlset>

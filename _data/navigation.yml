@@ -1,0 +1,14 @@
+# main links
+main:
+  - title: "About"
+    url: about
+  - title: Documentation
+    url: documentation
+  - title: Software
+    url: architecture
+  - title: Team
+    url: team
+  - title: Partners
+    url: partners
+  - title: "Contact"
+    url: contact
