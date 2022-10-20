@@ -41,6 +41,12 @@ Water Resources Research, 56(11), 2020.
 [doi:https://doi.org/10.1029/2019WR026138](https://doi.org/10.1029/2019WR026138)
 
 
+## GitHub Software Repositories
+
+**<i class="fab fa-github"></i> [FLAREr](https://github.com/FLARE-forecast/FLAREr)**
+
+**<i class="fab fa-github"></i> [FLARE-containers](https://github.com/FLARE-forecast/FLARE-containers)**
+
 ## Data packages
 
 Carey, C.C., J.H. Wynne, H.L. Wander, R.P. McClure, K.J. Farrell, A. Breef-Pilz, J.P. Doubek, A.B. Gerling, K.D. Hamre, A.G. Hounshell, A.S. Lewis, M.E. Lofton, and W.M. Woelmer. 
@@ -53,9 +59,12 @@ Time series of high-frequency meteorological data at Falling Creek Reservoir, Vi
 2015-2020 ver 5. 
 Environmental Data Initiative. [https://doi.org/10.6073/pasta/890e4c11f4348b3ceda802732ffa48b4](https://doi.org/10.6073/pasta/890e4c11f4348b3ceda802732ffa48b4)
 
+Carey, C.C., A. Breef-Pilz, and B.J. Bookout.
+Time series of high-frequency sensor data measuring water temperature, dissolved oxygen, pressure, conductivity, specific conductance, total dissolved solids, chlorophyll a, phycocyanin, and fluorescent dissolved organic matter at discrete depths in Beaverdam Reservoir, Virginia, USA
+2020 ver 1. 
+Environmental Data Initiative. [https://doi.org/10.6073/pasta/9a4877016583357cf04b8f68eb53b648]
+(https://doi.org/10.6073/pasta/9a4877016583357cf04b8f68eb53b648)
 
-## GitHub Repositories
 
-**<i class="fab fa-github"></i> [FLAREr](https://github.com/FLARE-forecast/FLAREr)**
 
-**<i class="fab fa-github"></i> [FLARE-containers](https://github.com/FLARE-forecast/FLARE-containers)**
+
