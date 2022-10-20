@@ -58,14 +58,14 @@ PhD Student, ACIS Lab, Department of Electrical & Computer Engineering, Universi
 ![Whitney Woelmer](../assets/images/whitney.jpg){: .profile-img}
 ### [<i class="fa fa-link" aria-hidden="true"></i> Whitney Woelmer](https://www.carey.biol.vt.edu/?page_id=1289)
 {::nomarkdown}<div class="bio">{:/nomarkdown}
-Master's Student, Carey Lab, Department of Biological Sciences, Virginia Tech
+PhD Student, Carey Lab, Department of Biological Sciences, Virginia Tech
 {::nomarkdown}</div></div>{:/nomarkdown}
 
 {::nomarkdown}<div class="one-fourth-last">{:/nomarkdown}
-![Dexter Howard](../assets/images/dexter.jpg){: .profile-img}
-### [<i class="fa fa-link" aria-hidden="true"></i> Dexter Howard](https://twitter.com/dexterhoward77?lang=en)
+![Dexter Howard](../assets/images/dexter2.jpg){: .profile-img}
+### [<i class="fa fa-link" aria-hidden="true"></i> Dexter Howard](https://carey.biol.vt.edu/?page_id=1679)
 {::nomarkdown}<div class="bio">{:/nomarkdown}
-Undergraduate Student, Carey Lab, Department of Biological Sciences, Virginia Tech
+PhD Student, Carey Lab, Department of Biological Sciences, Virginia Tech
 {::nomarkdown}</div></div>{:/nomarkdown}
 
 # Alumni
