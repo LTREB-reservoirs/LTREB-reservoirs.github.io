@@ -35,10 +35,37 @@ McClure, Ryan P. and Schreiber, Madeline E. and Lofton, Mary E. and Chen, Shengy
 Ecosystems, 24(6), 2021.
 [doi:https://doi.org/10.1007/s10021-020-00582-9](https://doi.org/10.1007/s10021-020-00582-9)
 
+Hounshell, Alexandria G. and McClure, Ryan P. and Lofton, Mary E. and Carey, Cayelan C.,
+"Whole‐ecosystem oxygenation experiments reveal substantially greater hypolimnetic methane concentrations in reservoirs during anoxia.",
+Limnology and Oceanography Letters, 6(1), 2021.
+[doi:https://doi.org/10.1002/lol2.10173](https://doi.org/10.1002/lol2.10173)
+
+Howard, Dexter W. and Hounshell, Alexandria G. and Lofton, Mary E. and Woelmer, Whitney M. and Hanson, Paul C. and Carey, Cayelan C,
+"Variability in fluorescent dissolved organic matter concentrations across diel to seasonal time scales is driven by water temperature and meteorology in a eutrophic reservoir.",
+Aquatic Sciences, 83(2), 2021. 
+[doi:https://doi.org/10.1007/s00027-021-00784-w](https://doi.org/10.1007/s00027-021-00784-w)
+
+Moore, Tadhg N. and Mesman, Jorrit P. and Ladwig, Robert and Feldbauer, Johannes and Olsson, Freya and Pilla, Rachel M. and Shatwell, Tom and Venkiteswaran, Jason J. and Delany, Austin D. and Dugan, Hilary and Rose, Kevin C. and Read, Jordan S.,
+"LakeEnsemblR: An R package that facilitates ensemble modelling of lakes.",
+Environmental Modelling & Software, 143(C) 105101, 2021.
+[doi:https://doi.org/10.1016/j.envsoft.2021.105101](https://doi.org/10.1016/j.envsoft.2021.105101)
+
+
 Thomas, R. Quinn and Figueiredo, Renato J. and Daneshmand, Vahid and Bookout, Bethany J. and Puckett, Laura K. and Carey, Cayelan C.,
 "A Near‐Term Iterative Forecasting System Successfully Predicts Reservoir Hydrodynamics and Partitions Uncertainty in Real Time.",
 Water Resources Research, 56(11), 2020.
 [doi:https://doi.org/10.1029/2019WR026138](https://doi.org/10.1029/2019WR026138)
+
+Carey, Cayelan C. and Farrell, Kaitlin J. and Hounshell, Alexandria G. and O'Connell, Kristin,
+"Macrosystems EDDIE teaching modules significantly increase ecology students' proficiency and confidence working with ecosystem models and use of systems thinking.",
+Ecology and Evolution, 10(22), 2020.
+[doi:https://doi.org/10.1002/ece3.6757](https://doi.org/10.1002/ece3.6757)
+
+Cottingham, Kathryn L. and Weathers, Kathleen C. and Ewing, Holly A. and Greer, Meredith L. and Carey, Cayelan C. and Moisander, ed.,
+"Predicting the effects of climate change on freshwater cyanobacterial blooms requires consideration of the complete cyanobacterial life cycle.",
+Journal of Plankton Research, 43(1), 2020.  
+[doi:https://doi.org/10.1093/plankt/fbaa059](https://doi.org/10.1093/plankt/fbaa059)
+
 
 
 ## GitHub Software Repositories
