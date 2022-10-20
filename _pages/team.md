@@ -9,7 +9,7 @@ header:
 # Faculty
 
 {::nomarkdown}<div class="one-fourth clear-both">{:/nomarkdown}
-![Renato J. Figueiredo](../assets/images/renato2.jpg){: .profile-img}
+![Renato J. Figueiredo](../assets/images/renato2.jpeg){: .profile-img}
 ### [<i class="fa fa-link" aria-hidden="true"></i> Dr. Renato Figueiredo](https://www.acis.ufl.edu/people/renatof){: .clear-both}
 {::nomarkdown}<div class="bio">{:/nomarkdown}
 Professor, ACIS Lab, Department of Electrical & Computer Engineering, University of Florida
