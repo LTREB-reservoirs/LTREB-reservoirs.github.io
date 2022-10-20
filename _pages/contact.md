@@ -25,6 +25,6 @@ Associate Professor, Department of Forest Resources & Environmental Conservation
 
 **Lake Science Lead**
 
-Associate Professor, Carey Lab, Department of Biological Sciences, Virginia Tech 
+Professor, Carey Lab, Department of Biological Sciences, Virginia Tech 
 
 <i class="far fa-envelope" aria-hidden="true"></i> cayelan{at}vt.edu 
