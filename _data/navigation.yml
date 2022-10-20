@@ -2,8 +2,8 @@
 main:
   - title: "About"
     url: about
-  - title: Documentation
-    url: documentation
+  - title: Resources
+    url: resources
   - title: Software
     url: architecture
   - title: Team
