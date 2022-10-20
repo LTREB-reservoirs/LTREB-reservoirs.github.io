@@ -61,14 +61,14 @@ PhD Student, Carey Lab, Department of Biological Sciences, Virginia Tech
 PhD Student, ACIS Lab, Department of Electrical & Computer Engineering, University of Florida
 {::nomarkdown}</div></div>{:/nomarkdown}
 
-{::nomarkdown}<div class="one-fourth clear-both">{:/nomarkdown}
+{::nomarkdown}<div class="one-fourth-last">{:/nomarkdown}
 ![Freya Olsson](../assets/images/freya.jpg){: .profile-img}
 ### [<i class="fa fa-link" aria-hidden="true"></i> Freya Olsson](https://carey.biol.vt.edu/?page_id=1707)
 {::nomarkdown}<div class="bio">{:/nomarkdown}
 Post-doctoral associate, Department of Biological Sciences, Virginia Tech
 {::nomarkdown}</div></div>{:/nomarkdown}
 
-{::nomarkdown}<div class="one-fourth-last">{:/nomarkdown}
+{::nomarkdown}<div class="one-fourth">{:/nomarkdown}
 ![Whitney Woelmer](../assets/images/whitney.jpg){: .profile-img}
 ### [<i class="fa fa-link" aria-hidden="true"></i> Whitney Woelmer](https://www.carey.biol.vt.edu/?page_id=1289)
 {::nomarkdown}<div class="bio">{:/nomarkdown}
