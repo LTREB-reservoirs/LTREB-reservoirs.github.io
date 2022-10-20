@@ -55,6 +55,13 @@ PhD Student, ACIS Lab, Department of Electrical & Computer Engineering, Universi
 {::nomarkdown}</div></div>{:/nomarkdown}
 
 {::nomarkdown}<div class="one-fourth">{:/nomarkdown}
+![Yun-Jung Ku](../assets/images/yunjung2.jpg){: .profile-img}
+### [<i class="fa fa-link" aria-hidden="true"></i> Yun-Jung Ku](https://www.acis.ufl.edu/people/yun-jung-ku/)
+{::nomarkdown}<div class="bio">{:/nomarkdown}
+PhD Student, ACIS Lab, Department of Electrical & Computer Engineering, University of Florida
+{::nomarkdown}</div></div>{:/nomarkdown}
+
+{::nomarkdown}<div class="one-fourth">{:/nomarkdown}
 ![Whitney Woelmer](../assets/images/whitney.jpg){: .profile-img}
 ### [<i class="fa fa-link" aria-hidden="true"></i> Whitney Woelmer](https://www.carey.biol.vt.edu/?page_id=1289)
 {::nomarkdown}<div class="bio">{:/nomarkdown}
