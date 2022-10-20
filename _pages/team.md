@@ -15,7 +15,7 @@ header:
 Associate Professor, Carey Lab, Department of Biological Sciences, Virginia Tech
 {::nomarkdown}</div></div>{:/nomarkdown}
 
-{::nomarkdown}<div class="one-fourth clear-both">{:/nomarkdown}
+{::nomarkdown}<div class="one-fourth">{:/nomarkdown}
 ![Renato J. Figueiredo](../assets/images/renato2.jpeg){: .profile-img}
 ### [<i class="fa fa-link" aria-hidden="true"></i> Dr. Renato Figueiredo](https://www.acis.ufl.edu/people/renatof){: .clear-both}
 {::nomarkdown}<div class="bio">{:/nomarkdown}
@@ -47,7 +47,7 @@ Ecosystem Scientist, Cary Institute of Ecosystem Studies
 PhD Student, ACIS Lab, Department of Electrical & Computer Engineering, University of Florida
 {::nomarkdown}</div></div>{:/nomarkdown}
 
-{::nomarkdown}<div class="one-fourth-last">{:/nomarkdown}
+{::nomarkdown}<div class="one-fourth">{:/nomarkdown}
 ![Dexter Howard](../assets/images/dexter2.jpeg){: .profile-img}
 ### [<i class="fa fa-link" aria-hidden="true"></i> Dexter Howard](https://carey.biol.vt.edu/?page_id=1679)
 {::nomarkdown}<div class="bio">{:/nomarkdown}
@@ -61,7 +61,7 @@ PhD Student, Carey Lab, Department of Biological Sciences, Virginia Tech
 PhD Student, ACIS Lab, Department of Electrical & Computer Engineering, University of Florida
 {::nomarkdown}</div></div>{:/nomarkdown}
 
-{::nomarkdown}<div class="one-fourth">{:/nomarkdown}
+{::nomarkdown}<div class="one-fourth-last">{:/nomarkdown}
 ![Freya Olsson](../assets/images/freya.jpg){: .profile-img}
 ### [<i class="fa fa-link" aria-hidden="true"></i> Freya Olsson](https://carey.biol.vt.edu/?page_id=1707)
 {::nomarkdown}<div class="bio">{:/nomarkdown}
@@ -78,7 +78,7 @@ PhD Student, Carey Lab, Department of Biological Sciences, Virginia Tech
 
 # Alumni
 
-{::nomarkdown}<div class="one-fourth clear-both">{:/nomarkdown}
+{::nomarkdown}<div class="one-fourth">{:/nomarkdown}
 ![Bethany Bookout](../assets/images/bethany.jpg){: .profile-img}
 ### [<i class="fa fa-link" aria-hidden="true"></i> Bethany Bookout](https://www.carey.biol.vt.edu/?page_id=1293)
 {::nomarkdown}<div class="bio">{:/nomarkdown}
