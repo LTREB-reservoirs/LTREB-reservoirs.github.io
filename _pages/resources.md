@@ -62,8 +62,35 @@ Environmental Data Initiative. [https://doi.org/10.6073/pasta/890e4c11f4348b3ced
 Carey, C.C., A. Breef-Pilz, and B.J. Bookout.
 Time series of high-frequency sensor data measuring water temperature, dissolved oxygen, pressure, conductivity, specific conductance, total dissolved solids, chlorophyll a, phycocyanin, and fluorescent dissolved organic matter at discrete depths in Beaverdam Reservoir, Virginia, USA
 2020 ver 1. 
-Environmental Data Initiative. [https://doi.org/10.6073/pasta/9a4877016583357cf04b8f68eb53b648]
-(https://doi.org/10.6073/pasta/9a4877016583357cf04b8f68eb53b648)
+Environmental Data Initiative. [https://doi.org/10.6073/pasta/9a4877016583357cf04b8f68eb53b648](https://doi.org/10.6073/pasta/9a4877016583357cf04b8f68eb53b648)
+
+Carey, C.C., A.G. Hounshell, M.E. Lofton, F. Birgand, B.J. Bookout, R.S. Corrigan, A.B. Gerling, R.P. McClure, and W.M. Woelmer. 
+Discharge time series for the primary inflow tributary entering Falling Creek Reservoir, Vinton, Virginia, USA 2013-2021 ver 7. 
+Environmental Data Initiative. [https://doi.org/10.6073/pasta/8d22a432aac5560b0f45aa1b21ae4746](https://doi.org/10.6073/pasta/8d22a432aac5560b0f45aa1b21ae4746)
+
+Carey, C.C., A.S. Lewis, R.P. McClure, A.B. Gerling, S. Chen, A. Das, J.P. Doubek, D.W. Howard, M.E. Lofton, K.D. Hamre, and H.L. Wander. 
+Time series of high-frequency profiles of depth, temperature, dissolved oxygen, conductivity, specific conductivity, chlorophyll a, turbidity, pH, oxidation-reduction potential, photosynthetic active radiation, and descent rate for Beaverdam Reservoir, Carvins Cove Reservoir, Falling Creek Reservoir, Gatewood Reservoir, and Spring Hollow Reservoir in Southwestern Virginia, USA 2013-2020 ver 11. 
+Environmental Data Initiative. [https://doi.org/10.6073/pasta/5448f9d415fd09e0090a46b9d4020ccc](https://doi.org/10.6073/pasta/5448f9d415fd09e0090a46b9d4020ccc)
+
+Carey, C.C., H.L. Wander, W.M. Woelmer, M.E. Lofton, A. Breef-Pilz, J.P. Doubek, A.B. Gerling, A.G. Hounshell, R.P. McClure, and B.R. Niederlehner. 2021. Water chemistry time series for Beaverdam Reservoir, Carvins Cove Reservoir, Falling Creek Reservoir, Gatewood Reservoir, and Spring Hollow Reservoir in southwestern Virginia, USA 2013-2020 ver 9. 
+Environmental Data Initiative. [https://doi.org/10.6073/pasta/6343e979a970e8a2590b4a450e851dd2](https://doi.org/10.6073/pasta/6343e979a970e8a2590b4a450e851dd2)
+
+Carey, C.C., M.E. Lofton, W.M. Woelmer, K.D. Hamre, A. Breef-Pilz, J.P. Doubek, and R.P. McClure. 2021. Time-series of high-frequency profiles of fluorescence-based phytoplankton spectral groups in Beaverdam Reservoir, Carvins Cove Reservoir, Falling Creek Reservoir, Gatewood Reservoir, and Spring Hollow Reservoir in southwestern Virginia, USA 2014-2020 ver 5. 
+Environmental Data Initiative. [https://doi.org/10.6073/pasta/54d4bd2fee1e52e36e2b0f230912d2da](https://doi.org/10.6073/pasta/54d4bd2fee1e52e36e2b0f230912d2da)
+
+Carey, C.C., W.M. Woelmer, A.S. Lewis, A. Breef-Pilz, D.W. Howard, and B.J. Bookout. 2021. Time series of high-frequency sensor data measuring water temperature, dissolved oxygen, pressure, conductivity, specific conductance, total dissolved solids, chlorophyll a, phycocyanin, and fluorescent dissolved organic matter at discrete depths in Falling Creek Reservoir, Virginia, USA in 2018-2020 ver 5. 
+Environmental Data Initiative. [https://doi.org/10.6073/pasta/88896f4a7208c9b7bddcf498258edf78](https://doi.org/10.6073/pasta/88896f4a7208c9b7bddcf498258edf78)
+
+Hounshell, A.G., R.H. Thai, K.A. Peeler, D.T. Scott, and C.C. Carey. 2021. Time series of optical measurements (absorbance, fluorescence) for Beaverdam and Falling Creek Reservoir in Southwestern Virginia, USA 2019-2020 ver 1. 
+Environmental Data Initiative. [https://doi.org/10.6073/pasta/d1062b14ed1df86507414afe8d45dc75](https://doi.org/10.6073/pasta/d1062b14ed1df86507414afe8d45dc75)
+
+Schreiber, M.E., K.M. Krueger, Z.W. Munger, N.W. Hammond, M.E. Lofton, R.P. McClure, and C.C. Carey. 2021. Time series of total and soluble iron and manganese concentrations from Falling Creek Reservoir and Beaverdam Reservoir in southwestern Virginia, USA from 2014 through 2020 ver 5. 
+Environmental Data Initiative. [https://doi.org/10.6073/pasta/16aef1a227f489ba26274f36fde6b824](https://doi.org/10.6073/pasta/16aef1a227f489ba26274f36fde6b824)
+
+
+
+
+
 
 
 
