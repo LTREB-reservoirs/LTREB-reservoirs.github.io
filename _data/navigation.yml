@@ -4,7 +4,7 @@ main:
     url: about
   - title: Resources
     url: resources
-  - title: Software
+  - title: Technology
     url: architecture
   - title: Team
     url: team
