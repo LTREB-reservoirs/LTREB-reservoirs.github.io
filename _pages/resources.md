@@ -6,6 +6,13 @@ header:
   overlay_image: /assets/images/banner.jpg
 ---
 
+## GitHub Software Repositories
+
+**<i class="fab fa-github"></i> [FLAREr](https://github.com/FLARE-forecast/FLAREr)**
+
+**<i class="fab fa-github"></i> [FLARE-containers](https://github.com/FLARE-forecast/FLARE-containers)**
+
+
 ## Technical papers
 
 
@@ -68,11 +75,6 @@ Journal of Plankton Research, 43(1), 2020.
 
 
 
-## GitHub Software Repositories
-
-**<i class="fab fa-github"></i> [FLAREr](https://github.com/FLARE-forecast/FLAREr)**
-
-**<i class="fab fa-github"></i> [FLARE-containers](https://github.com/FLARE-forecast/FLARE-containers)**
 
 ## Data packages
 
