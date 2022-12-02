@@ -6,6 +6,8 @@ main:
     url: resources
   - title: Technology
     url: architecture
+  - title: Dashboard
+    url: flare-dashboard
   - title: Team
     url: team
   - title: Partners
