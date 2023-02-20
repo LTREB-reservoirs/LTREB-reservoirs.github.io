@@ -23,7 +23,7 @@ Our software is distributed along the following repositories:
 * [FLAREr package](https://github.com/FLARE-forecast/FLAREr)
 * [FLARE containers](https://github.com/FLARE-forecast/FLARE-containers)
 
-If you would like to learn more details about configuring and deploying FLARE, [please visit the FLARE Wiki]([https://github.com/FLARE-forecast/FLARE/wiki](https://github.com/FLARE-forecast/flare-forecast.github.io/wiki))
+If you would like to learn more details about configuring and deploying FLARE, [please visit the FLARE Wiki](https://github.com/FLARE-forecast/flare-forecast.github.io/wiki)
 
 
 
