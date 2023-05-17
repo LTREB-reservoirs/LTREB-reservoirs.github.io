@@ -12,7 +12,7 @@ header:
 ![Cayelan C. Carey](../assets/images/cayelan.jpg){: .profile-img}
 ### [<i class="fa fa-link" aria-hidden="true"></i> Dr. Cayelan Carey](http://www.carey.biol.vt.edu/){: .clear-both}
 {::nomarkdown}<div class="bio">{:/nomarkdown}
-Associate Professor, Carey Lab, Department of Biological Sciences, Virginia Tech
+Professor, Carey Lab, Department of Biological Sciences, Virginia Tech
 {::nomarkdown}</div></div>{:/nomarkdown}
 
 {::nomarkdown}<div class="one-fourth">{:/nomarkdown}
@@ -78,6 +78,13 @@ Post-doctoral associate, Department of Biological Sciences, Virginia Tech
 {::nomarkdown}<div class="one-fourth">{:/nomarkdown}
 ![Whitney Woelmer](../assets/images/whitney.jpg){: .profile-img}
 ### [<i class="fa fa-link" aria-hidden="true"></i> Whitney Woelmer](https://www.carey.biol.vt.edu/?page_id=1289)
+{::nomarkdown}<div class="bio">{:/nomarkdown}
+PhD Student, Carey Lab, Department of Biological Sciences, Virginia Tech
+{::nomarkdown}</div></div>{:/nomarkdown}
+
+{::nomarkdown}<div class="one-fourth">{:/nomarkdown}
+![Heather Wander](../assets/images/HeatherWander.jpg){: .profile-img}
+### [<i class="fa fa-link" aria-hidden="true"></i> Heather Wander](https://www.carey.biol.vt.edu/?page_id=1520)
 {::nomarkdown}<div class="bio">{:/nomarkdown}
 PhD Student, Carey Lab, Department of Biological Sciences, Virginia Tech
 {::nomarkdown}</div></div>{:/nomarkdown}
