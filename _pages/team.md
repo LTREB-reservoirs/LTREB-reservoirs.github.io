@@ -89,6 +89,13 @@ PhD Student, Carey Lab, Department of Biological Sciences, Virginia Tech
 PhD Student, Carey Lab, Department of Biological Sciences, Virginia Tech
 {::nomarkdown}</div></div>{:/nomarkdown}
 
+{::nomarkdown}<div class="one-fourth-last">{:/nomarkdown}
+![Katie Hoffman](../assets/images/katie.jpg){: .profile-img}
+### [<i class="fa fa-link" aria-hidden="true"></i> Katie Hoffman](https://carey.biol.vt.edu/?page_id=13)
+{::nomarkdown}<div class="bio">{:/nomarkdown}
+PhD Student, Carey Lab, Department of Biological Sciences, Virginia Tech
+{::nomarkdown}</div></div>{:/nomarkdown}
+
 
 # Alumni
 
