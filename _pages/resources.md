@@ -6,12 +6,7 @@ header:
   overlay_image: /assets/images/banner.jpg
 ---
 
-## GitHub Software Repositories
-
-**<i class="fab fa-github"></i> [FLAREr](https://github.com/FLARE-forecast/FLAREr)**
-
-**<i class="fab fa-github"></i> [FLARE-containers](https://github.com/FLARE-forecast/FLARE-containers)**
-
+The resources and products from FLARE include papers, data, educational modules, and software:
 
 ## Technical papers
 
@@ -115,6 +110,17 @@ Environmental Data Initiative. [https://doi.org/10.6073/pasta/d1062b14ed1df86507
 
 Schreiber, M.E., K.M. Krueger, Z.W. Munger, N.W. Hammond, M.E. Lofton, R.P. McClure, and C.C. Carey. 2021. Time series of total and soluble iron and manganese concentrations from Falling Creek Reservoir and Beaverdam Reservoir in southwestern Virginia, USA from 2014 through 2020 ver 5. 
 Environmental Data Initiative. [https://doi.org/10.6073/pasta/16aef1a227f489ba26274f36fde6b824](https://doi.org/10.6073/pasta/16aef1a227f489ba26274f36fde6b824)
+
+## Educational modules
+
+**<i class="fab fa-github"></i> [Macrosystems EDDIE](https://serc.carleton.edu/eddie/macrosystems/index.html)**
+
+
+## GitHub Software Repositories
+
+**<i class="fab fa-github"></i> [FLAREr](https://github.com/FLARE-forecast/FLAREr)**
+
+**<i class="fab fa-github"></i> [FLARE-containers](https://github.com/FLARE-forecast/FLARE-containers)**
 
 
 
