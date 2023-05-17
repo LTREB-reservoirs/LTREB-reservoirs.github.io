@@ -118,7 +118,7 @@ Environmental Data Initiative. [https://doi.org/10.6073/pasta/16aef1a227f489ba26
 
 ## GitHub Software Repositories
 
-**<i class="fab fa-github"></i> [FLAREr](https://github.com/FLARE-forecast/FLAREr)**
+**<i class="fab fa-github"></i> [FLAREr](https://flare-forecast.org/FLAREr/)**
 
 **<i class="fab fa-github"></i> [FLARE-containers](https://github.com/FLARE-forecast/FLARE-containers)**
 
