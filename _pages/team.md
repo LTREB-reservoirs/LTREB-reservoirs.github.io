@@ -83,7 +83,7 @@ PhD Student, Carey Lab, Department of Biological Sciences, Virginia Tech
 {::nomarkdown}</div></div>{:/nomarkdown}
 
 {::nomarkdown}<div class="one-fourth">{:/nomarkdown}
-![Heather Wander](../assets/images/HeatherWander.jpg){: .profile-img}
+![Heather Wander](../assets/images/heather.jpg){: .profile-img}
 ### [<i class="fa fa-link" aria-hidden="true"></i> Heather Wander](https://www.carey.biol.vt.edu/?page_id=1520)
 {::nomarkdown}<div class="bio">{:/nomarkdown}
 PhD Student, Carey Lab, Department of Biological Sciences, Virginia Tech
