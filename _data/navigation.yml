@@ -6,7 +6,7 @@ main:
     url: resources
   - title: Technology
     url: architecture
-  - title: Dashboard
+  - title: Forecasting Challenge
     url: vera4cast
   - title: Team
     url: team
