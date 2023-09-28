@@ -16,9 +16,9 @@ minimal_mistakes_skin    : # "default", air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "FLARE"
+title                    : "Virginia Reservoirs LTREB"
 title_separator          : "-"
-subtitle                 : Forecasting Lake And Reservoir Ecosystems # site tagline that appears below site title in masthead
+subtitle                 : # site tagline that appears below site title in masthead
 name                     : ""
 description              : ""
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
