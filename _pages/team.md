@@ -23,8 +23,8 @@ Associate Professor, Department of Forest Resources & Environmental Conservation
 {::nomarkdown}</div></div>{:/nomarkdown}
 
 {::nomarkdown}<div class="one-fourth-last">{:/nomarkdown}
-###![Madeline Schreiber](../assets/images/kathie.jpg){: .profile-img}
-[<i class="fa fa-link" aria-hidden="true"></i> Dr. Madeline Schreiber](https://geos.vt.edu/content/geos_vt_edu/en/people/Everyone/Madeline-Schreiber/jcr:content/bio-image.transform/xl-medium/image.jpg){: .clear-both}
+![Madeline Schreiber](https://geos.vt.edu/content/geos_vt_edu/en/people/Everyone/Madeline-Schreiber/jcr:content/bio-image.transform/xl-medium/image.jpg){: .profile-img}
+###[<i class="fa fa-link" aria-hidden="true"></i> Dr. Madeline Schreiber](https://geos.vt.edu/content/geos_vt_edu/en/people/Everyone/Madeline-Schreiber/jcr:content/bio-image.transform/xl-medium/image.jpg){: .clear-both}
 {::nomarkdown}<div class="bio">{:/nomarkdown}
 Professor, Department of Geoscience, Virginia Tech
 {::nomarkdown}</div></div>{:/nomarkdown}
