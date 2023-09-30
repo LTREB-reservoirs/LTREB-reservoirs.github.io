@@ -16,4 +16,6 @@ The mission of the Western Virginia Water Authority is to protect and manage ess
 The Global Lake Ecological Observatory Network conducts innovative science by sharing and interpreting high resolution sensor data to understand, predict and communicate the role and response of lakes in a changing global environment.
 ## [<i class="fa fa-link" aria-hidden="true"></i> Macrosystems EDDIE](http://macrosystemseddie.org)  
 Macrosystems EDDIE (Environmental Data-Driven Inquiry & Exploration) builds flexible teaching modules to teach undergraduate students macrosystems ecology concepts will building their simulation modeling and computing skills.
+## [<i class="fa fa-link" aria-hidden="true"></i> Renato Figueiredo, University of Florida](http://acis.ufl.edu)  
+Professor, ACIS Lab, Department of Electrical & Computer Engineering, University of Florida
 
