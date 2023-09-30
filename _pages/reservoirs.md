@@ -12,6 +12,3 @@ header:
 ## Beaver Dam Reservoir
 
 
-## Western Virginia Water Authority
-
-
