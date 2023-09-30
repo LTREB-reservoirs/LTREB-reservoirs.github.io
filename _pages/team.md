@@ -35,12 +35,14 @@ Professor, Department of Geoscience, Virginia Tech
 
 {::nomarkdown}<div class="one-fourth">{:/nomarkdown}
 ![Adrienne Breef-Pilz](https://ih1.redbubble.net/image.319291377.1118/st,small,507x507-pad,600x600,f8f8f8.u2.jpg){: .profile-img}
+### [<i class="fa fa-link" aria-hidden="true"></i> Adrienne Breef-Pilz](https://carey.biol.vt.edu/?page_id=1615)
 {::nomarkdown}<div class="bio">{:/nomarkdown}
 Field Program Manager, Carey Lab, Virginia Tech
 {::nomarkdown}</div></div>{:/nomarkdown}
 
 {::nomarkdown}<div class="one-fourth">{:/nomarkdown}
 ![Austin Delany](https://ih1.redbubble.net/image.319291377.1118/st,small,507x507-pad,600x600,f8f8f8.u2.jpg){: .profile-img}
+### [<i class="fa fa-link" aria-hidden="true"></i> Austin Delany]
 {::nomarkdown}<div class="bio">{:/nomarkdown}
 Data Scientist, Ecological Forecasting Project, Virginia Tech
 {::nomarkdown}</div></div>{:/nomarkdown}
