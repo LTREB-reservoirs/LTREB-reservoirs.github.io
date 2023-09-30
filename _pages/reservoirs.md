@@ -1,6 +1,6 @@
 ---
 title: "Reservoirs"
-permalink: /Reservoirs/
+permalink: /reservoirs/
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/banner.jpg
