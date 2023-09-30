@@ -2,8 +2,8 @@
 main:
   - title: "About"
     url: about
-  - title: Resources
-    url: resources
+  - title: Reservoirs
+    url: reservoirs
   - title: Data
     url: data
   - title: Forecasting Challenge
