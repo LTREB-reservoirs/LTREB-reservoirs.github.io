@@ -17,14 +17,14 @@ Professor, Carey Lab, Department of Biological Sciences, Virginia Tech
 
 {::nomarkdown}<div class="one-fourth">{:/nomarkdown}
 ![R. Quinn Thomas](../assets/images/quinn.jpg){: .profile-img}
-### [<i class="fa fa-link" aria-hidden="true"></i> Dr. Quinn Thomas](https://www.epics.frec.vt.edu/){: .clear-both}
+### [<i class="fa fa-link" aria-hidden="true"></i> Dr. Quinn Thomas](https://www.rquinnthomas.com){: .clear-both}
 {::nomarkdown}<div class="bio">{:/nomarkdown}
 Associate Professor, Department of Forest Resources & Environmental Conservation, Virginia Tech
 {::nomarkdown}</div></div>{:/nomarkdown}
 
 {::nomarkdown}<div class="one-fourth-last">{:/nomarkdown}
 ![Madeline Schreiber](https://geos.vt.edu/content/geos_vt_edu/en/people/Everyone/Madeline-Schreiber/jcr:content/bio-image.transform/xl-medium/image.jpg){: .profile-img}
-### [<i class="fa fa-link" aria-hidden="true"></i> Dr. Madeline Schreiber](https://geos.vt.edu/content/geos_vt_edu/en/people/Everyone/Madeline-Schreiber/jcr:content/bio-image.transform/xl-medium/image.jpg){: .clear-both}
+### [<i class="fa fa-link" aria-hidden="true"></i> Dr. Madeline Schreiber](https://geos.vt.edu/people/Everyone/Madeline-Schreiber.html){: .clear-both}
 {::nomarkdown}<div class="bio">{:/nomarkdown}
 Professor, Department of Geoscience, Virginia Tech
 {::nomarkdown}</div></div>{:/nomarkdown}
@@ -42,7 +42,7 @@ Field Program Manager, Carey Lab, Virginia Tech
 
 {::nomarkdown}<div class="one-fourth">{:/nomarkdown}
 ![Austin Delany](https://ih1.redbubble.net/image.319291377.1118/st,small,507x507-pad,600x600,f8f8f8.u2.jpg){: .profile-img}
-### [<i class="fa fa-link" aria-hidden="true"></i> Austin Delany]
+### [<i class="fa fa-link" aria-hidden="true"></i> Austin Delany](https://www.ecoforecastprojectvt.org/about-us)
 {::nomarkdown}<div class="bio">{:/nomarkdown}
 Data Scientist, Ecological Forecasting Project, Virginia Tech
 {::nomarkdown}</div></div>{:/nomarkdown}
