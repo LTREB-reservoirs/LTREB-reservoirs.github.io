@@ -4,8 +4,8 @@ main:
     url: about
   - title: Resources
     url: resources
-  - title: Technology
-    url: architecture
+  - title: Data
+    url: data
   - title: Forecasting Challenge
     url: vera4cast
   - title: Team
