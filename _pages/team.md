@@ -81,19 +81,3 @@ PhD Student, Carey Lab, Department of Biological Sciences, Virginia Tech
 {::nomarkdown}<div class="bio">{:/nomarkdown}
 PhD Student, Carey Lab, Department of Biological Sciences, Virginia Tech
 {::nomarkdown}</div></div>{:/nomarkdown}
-
-# Alumni
-
-{::nomarkdown}<div class="one-fourth">{:/nomarkdown}
-![Bethany Bookout](../assets/images/bethany.jpg){: .profile-img}
-### [<i class="fa fa-link" aria-hidden="true"></i> Bethany Bookout](https://www.carey.biol.vt.edu/?page_id=1293)
-{::nomarkdown}<div class="bio">{:/nomarkdown}
-Research Technician, Carey Lab, Department of Biological Sciences, Virginia Tech
-{::nomarkdown}</div></div>{:/nomarkdown}
-
-{::nomarkdown}<div class="one-fourth">{:/nomarkdown}
-![Ryan McClure](../assets/images/ryan.jpg){: .profile-img}
-### [<i class="fa fa-link" aria-hidden="true"></i> Ryan McClure](http://www.globalchange.vt.edu/ryan-mcclure/)
-{::nomarkdown}<div class="bio">{:/nomarkdown}
-PhD Student, Carey Lab, Department of Biological Sciences, Virginia Tech
-{::nomarkdown}</div></div>{:/nomarkdown}
