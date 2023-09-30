@@ -24,7 +24,7 @@ Associate Professor, Department of Forest Resources & Environmental Conservation
 
 {::nomarkdown}<div class="one-fourth-last">{:/nomarkdown}
 ![Madeline Schreiber](https://geos.vt.edu/content/geos_vt_edu/en/people/Everyone/Madeline-Schreiber/jcr:content/bio-image.transform/xl-medium/image.jpg){: .profile-img}
-###[<i class="fa fa-link" aria-hidden="true"></i> Dr. Madeline Schreiber](https://geos.vt.edu/content/geos_vt_edu/en/people/Everyone/Madeline-Schreiber/jcr:content/bio-image.transform/xl-medium/image.jpg){: .clear-both}
+### [<i class="fa fa-link" aria-hidden="true"></i> Dr. Madeline Schreiber](https://geos.vt.edu/content/geos_vt_edu/en/people/Everyone/Madeline-Schreiber/jcr:content/bio-image.transform/xl-medium/image.jpg){: .clear-both}
 {::nomarkdown}<div class="bio">{:/nomarkdown}
 Professor, Department of Geoscience, Virginia Tech
 {::nomarkdown}</div></div>{:/nomarkdown}
@@ -32,6 +32,18 @@ Professor, Department of Geoscience, Virginia Tech
 {: .clear-both}
 
 # Researchers, Technician, & Students
+
+{::nomarkdown}<div class="one-fourth">{:/nomarkdown}
+![Adrienne Breef-Pilz](https://ih1.redbubble.net/image.319291377.1118/st,small,507x507-pad,600x600,f8f8f8.u2.jpg){: .profile-img}
+{::nomarkdown}<div class="bio">{:/nomarkdown}
+Field Program Manager, Carey Lab, Virginia Tech
+{::nomarkdown}</div></div>{:/nomarkdown}
+
+{::nomarkdown}<div class="one-fourth">{:/nomarkdown}
+![Austin Delany](https://ih1.redbubble.net/image.319291377.1118/st,small,507x507-pad,600x600,f8f8f8.u2.jpg){: .profile-img}
+{::nomarkdown}<div class="bio">{:/nomarkdown}
+Data Scientist, Ecological Forecasting Project, Virginia Tech
+{::nomarkdown}</div></div>{:/nomarkdown}
 
 {::nomarkdown}<div class="one-fourth">{:/nomarkdown}
 ![Dexter Howard](../assets/images/dexter2.jpeg){: .profile-img}
