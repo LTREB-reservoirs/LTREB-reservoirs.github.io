@@ -81,3 +81,10 @@ PhD Student, Carey Lab, Department of Biological Sciences, Virginia Tech
 {::nomarkdown}<div class="bio">{:/nomarkdown}
 PhD Student, Carey Lab, Department of Biological Sciences, Virginia Tech
 {::nomarkdown}</div></div>{:/nomarkdown}
+
+{::nomarkdown}<div class="one-fourth-last">{:/nomarkdown}
+![Abby Lewis](https://ih1.redbubble.net/image.319291377.1118/st,small,507x507-pad,600x600,f8f8f8.u2.jpg){: .profile-img}
+### [<i class="fa fa-link" aria-hidden="true"></i> Abby Lewis](https://carey.biol.vt.edu/?page_id=1525)
+{::nomarkdown}<div class="bio">{:/nomarkdown}
+PhD Student, Carey Lab, Department of Biological Sciences, Virginia Tech
+{::nomarkdown}</div></div>{:/nomarkdown}
