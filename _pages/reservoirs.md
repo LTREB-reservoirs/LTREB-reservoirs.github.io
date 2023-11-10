@@ -10,7 +10,7 @@ Our ecosystem monitoring and forecasting program is focused on two drinking wate
 ## Falling Creek Reservoir
 Falling Creek Reservoir is a shallow (maximum depth at full pond = 9.3 m), small (0.119 square km) reservoir located at 37.30325, -79.8373. 
 
-## Beaver Dam Reservoir
+## Beaverdam Reservoir
 Beaverdam Reservoir is a shallow (maximum depth at full pond = 13.4 m), small (0.39 square km) reservoir located at 37.314783, -79.820864.
 
 ## Tunnel Branch
