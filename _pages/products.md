@@ -9,11 +9,11 @@ header:
 
 ## Publications: Foundational Knowledge
 
-Carey, C.C., P.C. Hanson, R.Q. Thomas, A.B. Gerling, A.G. Hounshell, A.S. Lewis, M.E. Lofton, R.P. McClure, H.L. Wander, W.M. Woelmer, B.R. Niederlehner, and M.E. Schreiber. Anoxia decreases the magnitude of the carbon, nitrogen, and phosphorus sink in freshwaters. *Global Change Biology*. 28: 4861-4881. https://doi.org/10.1111/gcb.16228
+Carey, C.C., P.C. Hanson, R.Q. Thomas, A.B. Gerling, A.G. Hounshell, A.S. Lewis, M.E. Lofton, R.P. McClure, H.L. Wander, W.M. Woelmer, B.R. Niederlehner, and M.E. Schreiber. Anoxia decreases the magnitude of the carbon, nitrogen, and phosphorus sink in freshwaters. *Global Change Biology*. 28: 4861-4881. [https://doi.org/10.1111/gcb.16228](https://doi.org/10.1111/gcb.16228)
 
-Doubek, J.P., K.L. Campbell, M.E. Lofton, R.P. McClure, and C.C. Carey. Hypolimnetic hypoxia increases the biomass and compositional variability of crustacean zooplankton communities. *Water*. 11(10):2179. https://doi.org10.3390/w11102179
+Doubek, J.P., K.L. Campbell, M.E. Lofton, R.P. McClure, and C.C. Carey. Hypolimnetic hypoxia increases the biomass and compositional variability of crustacean zooplankton communities. *Water*. 11(10):2179. [https://doi.org10.3390/w11102179](https://doi.org10.3390/w11102179)
 
-Hammond, N.W., F. Birgand, C.C. Carey, B.J. Bookout, A. Breef-Pilz, and M.E. Schreiber. 2023. High-frequency sensor data capture short-term variability in Fe and Mn cycling due to hypolimnetic oxygenation and seasonal dynamics in a drinking water reservoir. *Water Research*. 240: 120084. https://doi.org/10.1016/j.watres.2023.120084
+Hammond, N.W., F. Birgand, C.C. Carey, B.J. Bookout, A. Breef-Pilz, and M.E. Schreiber. 2023. High-frequency sensor data capture short-term variability in Fe and Mn cycling due to hypolimnetic oxygenation and seasonal dynamics in a drinking water reservoir. *Water Research*. 240: 120084. [https://doi.org/10.1016/j.watres.2023.120084](https://doi.org/10.1016/j.watres.2023.120084)
 
 Hounshell, A.G., B.M. D’Acunha, A. Breef-Pilz, M.S. Johnson, R.Q. Thomas, and C.C. Carey. 2023. Eddy covariance data reveal that a small freshwater reservoir emits a substantial amount of carbon dioxide and methane. *Journal of Geophysical Research-Biogeosciences*. 128: e2022JG007091. https://doi.org/10.1029/2022JG007091
 
