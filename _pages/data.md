@@ -6,50 +6,109 @@ header:
   overlay_image: /assets/images/banner.jpg
 ---
 
-## Data Products
-Data packages for Falling Creek Reservoir (FCR) and Beaverdam Reservoir (BVR) are published primarily in the Environmental Data Initiative repository.
+# Data Products
 
-### Published Data 
-# Both reservoirs
-[Bathymetry](https://portal.edirepository.org/nis/mapbrowse?packageid=edi.1254.1)<br /> 
-[Biology/Chemistry/Physics: Sensored CTD depth profiler](https://portal.edirepository.org/nis/mapbrowse?packageid=edi.200.13)<br />
-[Biology: filtered chlorophyll](https://portal.edirepository.org/nis/mapbrowse?packageid=edi.555.3)<br />
-[Biology: phytoplankton community composition](https://portal.edirepository.org/nis/mapbrowse?packageid=edi.272.7)<br />
-[Biology: zooplankton community composition](https://portal.edirepository.org/nis/mapbrowse?packageid=edi.197.2)<br />
-[Chemistry: greenhouse gas diffusive fluxes](https://portal.edirepository.org/nis/mapbrowse?packageid=edi.1082.2)<br />
-[Chemistry: greenhouse gas eddy covariance](https://portal.edirepository.org/nis/mapbrowse?packageid=edi.1061.2)<br />
-[Chemistry: greenhouse gas depth profiles](https://portal.edirepository.org/nis/mapbrowse?packageid=edi.551.7)<br />
-[Chemistry: carbon, nitrogen, phosphorus](https://portal.edirepository.org/nis/mapbrowse?packageid=edi.199.11)<br />
-[Chemistry: iron, manganese](https://portal.edirepository.org/nis/mapbrowse?packageid=edi.455.7)<br />
-[Chemistry: iron, manganese sensored data](https://portal.edirepository.org/nis/mapbrowse?packageid=edi.1360.1)<br />
-[Chemistry: pH](https://portal.edirepository.org/nis/mapbrowse?packageid=edi.198.11)<br />
-[Chemistry: silica](https://portal.edirepository.org/nis/mapbrowse?packageid=edi.542.1)<br /> 
-[Chemistry: sulfur](https://portal.edirepository.org/nis/mapbrowse?packageid=edi.607.0)<br /> 
-[Chemistry: sediment trap](https://portal.edirepository.org/nis/mapbrowse?packageid=edi.1474.1)<br />
-[Physics: ice cover](https://portal.edirepository.org/nis/mapbrowse?packageid=edi.456.4)<br /> 
-[Physics: light availability- Secchi depth & PAR profiles](https://portal.edirepository.org/nis/mapbrowse?packageid=edi.198.11)<br />
+Data packages for Falling Creek Reservoir (FCR) and Beaverdam Reservoir (BVR) are published primarily in the Environmental Data Initiative repository. The published data are updated on the annual calendar year. Provisional data since the last EDI publication are available on GitHub.  They have undergone the same QAQC protocols as the prior year's published data and are automatically updated as new data are collected and/or processed in the lab.  The sensor data is available within ~1 day of collection.  The metadata describing the data columns in the published data apply to the provisional data.  
 
-# FCR
-[Biology/Chemistry/Physics: High-frequency sensored catwalk data](https://portal.edirepository.org/nis/mapbrowse?packageid=edi.271.7)<br />
-[Meteorology](https://portal.edirepository.org/nis/mapbrowse?packageid=edi.389.7)<br />
-[Historical DO](https://portal.edirepository.org/nis/mapbrowse?packageid=edi.1357.1)<br />
-[Methane ebullition](https://portal.edirepository.org/nis/mapbrowse?packageid=edi.440.2)<br />
+## Both reservoirs
+Bathymetry
+- [Published](https://portal.edirepository.org/nis/mapbrowse?packageid=edi.1254.1)
+  
+Biology/Chemistry/Physics: Sensored CTD depth profiler
+- [Published](https://portal.edirepository.org/nis/mapbrowse?packageid=edi.200.13)
+- [Provisional](https://raw.githubusercontent.com/CareyLabVT/Reservoirs/master/Data/DataNotYetUploadedToEDI/Secchi/secchi_L1.csv)
 
-# BVR
-[Biology/Chemistry/Physics: High-frequency sensored platform data](https://portal.edirepository.org/nis/mapbrowse?packageid=edi.725.3)<br />
-[Biology: Chaoborus spp. zooplankton](https://portal.edirepository.org/nis/mapbrowse?packageid=edi.828.1)<br />
+Biology: filtered chlorophyll
+- [Published](https://portal.edirepository.org/nis/mapbrowse?packageid=edi.555.3)
 
-# Tunnel Branch
+Biology: phytoplankton community composition
+- [Published](https://portal.edirepository.org/nis/mapbrowse?packageid=edi.272.7)
 
-[Manually-collected discharge](https://portal.edirepository.org/nis/mapbrowse?packageid=edi.454.6)<br />
-[Sensored discharge](https://portal.edirepository.org/nis/mapbrowse?packageid=edi.202.10)<br />
-[Organic carbon loads](https://portal.edirepository.org/nis/mapbrowse?packageid=edi.127.1)<br />
+Biology: zooplankton community composition
+- [Published](https://portal.edirepository.org/nis/mapbrowse?packageid=edi.197.2)
 
-# Ancillary
-[Model configurations for GLM-AED](https://portal.edirepository.org/nis/mapbrowse?packageid=edi.1127.1)<br /> 
-[Sediment core data](https://portal.edirepository.org/nis/mapbrowse?packageid=edi.1299.1)<br />
-[EEMs](https://portal.edirepository.org/nis/mapbrowse?packageid=edi.841.1)<br />
+Chemistry: greenhouse gas diffusive fluxes
+- [Published](https://portal.edirepository.org/nis/mapbrowse?packageid=edi.1082.2)
 
-### Provisional Data
+Chemistry: greenhouse gas eddy covariance
+- [Published](https://portal.edirepository.org/nis/mapbrowse?packageid=edi.1061.2)
 
-GitHub L1 links
+Chemistry: greenhouse gas depth profiles
+-  [Published](https://portal.edirepository.org/nis/mapbrowse?packageid=edi.551.7)
+
+Chemistry: carbon, nitrogen, phosphorus
+- [Published](https://portal.edirepository.org/nis/mapbrowse?packageid=edi.199.11)
+
+Chemistry: iron, manganese
+- [Published](https://portal.edirepository.org/nis/mapbrowse?packageid=edi.455.7)
+
+Chemistry: iron, manganese sensored data
+- [Published](https://portal.edirepository.org/nis/mapbrowse?packageid=edi.1360.1)
+
+Chemistry: pH
+- [Published](https://portal.edirepository.org/nis/mapbrowse?packageid=edi.198.11)
+  
+Chemistry: silica
+- [Published](https://portal.edirepository.org/nis/mapbrowse?packageid=edi.542.1) 
+
+Chemistry: sulfur
+- [Published](https://portal.edirepository.org/nis/mapbrowse?packageid=edi.607.0)
+
+Chemistry: sediment trap
+- [Published](https://portal.edirepository.org/nis/mapbrowse?packageid=edi.1474.1)
+
+Physics: ice cover
+- [Published](https://portal.edirepository.org/nis/mapbrowse?packageid=edi.456.4)
+  
+Physics: light availability- Secchi depth & PAR profiles
+- [Published](https://portal.edirepository.org/nis/mapbrowse?packageid=edi.198.11)
+
+## FCR
+Biology/Chemistry/Physics: High-frequency sensored catwalk data
+- [Published](https://portal.edirepository.org/nis/mapbrowse?packageid=edi.271.7)
+- [Provisional](https://raw.githubusercontent.com/FLARE-forecast/FCRE-data/fcre-catwalk-data-qaqc/fcre-waterquality_L1.csv)
+
+Meteorology
+- [Published](https://portal.edirepository.org/nis/mapbrowse?packageid=edi.389.7)
+- [Provisional](https://raw.githubusercontent.com/FLARE-forecast/FCRE-data/fcre-metstation-data-qaqc/FCRmet_L1.csv)
+  
+Historical DO
+- [Published](https://portal.edirepository.org/nis/mapbrowse?packageid=edi.1357.1)
+  
+Methane ebullition
+- [Published](https://portal.edirepository.org/nis/mapbrowse?packageid=edi.440.2)
+
+## BVR
+
+Biology/Chemistry/Physics: High-frequency sensored platform data
+- [Published](https://portal.edirepository.org/nis/mapbrowse?packageid=edi.725.3)
+- [Provisional](https://raw.githubusercontent.com/FLARE-forecast/BVRE-data/bvre-platform-data-qaqc/bvre-waterquality_L1.csv)
+
+Biology: Chaoborus spp. zooplankton
+- [Published](https://portal.edirepository.org/nis/mapbrowse?packageid=edi.828.1)
+
+### Tunnel Branch
+
+Manually-collected discharge
+- [Published](https://portal.edirepository.org/nis/mapbrowse?packageid=edi.454.6)
+  
+Sensored discharge
+- [Published](https://portal.edirepository.org/nis/mapbrowse?packageid=edi.202.10)
+  
+Organic carbon loads
+- [Published](https://portal.edirepository.org/nis/mapbrowse?packageid=edi.127.1)
+
+### Ancillary
+
+Model configurations for GLM-AED
+- [Published](https://portal.edirepository.org/nis/mapbrowse?packageid=edi.1127.1)
+  
+Sediment core data
+- [Published](https://portal.edirepository.org/nis/mapbrowse?packageid=edi.1299.1)
+  
+EEMs
+- [Published](https://portal.edirepository.org/nis/mapbrowse?packageid=edi.841.1)
+
+
+
+
