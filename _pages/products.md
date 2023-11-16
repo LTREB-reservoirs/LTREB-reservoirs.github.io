@@ -67,4 +67,4 @@ Weyhenmeyer, G.A., U. Obertegger, H. Rudebeck, E. Jakobsson, J. Jansen, G. Zdoro
 
 ## Other products
 
-Falling Creek Reservoir is used as a test and evaluation site for the development of the General Lake Model. [https://github.com/AquaticEcoDynamics/glm-aed/tree/main/glm-examples](https://github.com/AquaticEcoDynamics/glm-aed/tree/main/glm-examples)
+Falling Creek Reservoir is used as a test-bed and evaluation site for the development of the General Lake Model. [https://github.com/AquaticEcoDynamics/glm-aed/tree/main/glm-examples](https://github.com/AquaticEcoDynamics/glm-aed/tree/main/glm-examples)
