@@ -31,7 +31,7 @@ Professor, Department of Geoscience, Virginia Tech
 
 {: .clear-both}
 
-# Researchers, Technician, & Students
+# Researchers, Technicians, & Students
 
 {::nomarkdown}<div class="one-fourth">{:/nomarkdown}
 ![Adrienne Breef-Pilz](../assets/images/Adrienne.jpg){: .profile-img}
