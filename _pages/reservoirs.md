@@ -20,4 +20,7 @@ Falling Creek Reservoir is a shallow (maximum depth at full pond = 9.3 m), small
 Beaverdam Reservoir is a shallow (maximum depth at full pond = 13.4 m), small (0.39 square km) reservoir located at 37.314783, -79.820864. The hypolimnion of Beaverdam Reservoir quickly becomes anoxic after the onset of summer stratification.
 
 ## Tunnel Branch
+
+![Beaverdam Reservoir](../assets/images/weir.jpg)
+
 Tunnel Branch is a 1.7 km-long stream that connects upstream Beaverdam Reservoir to downstream Falling Creek Reservoir.
