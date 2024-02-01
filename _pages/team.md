@@ -41,7 +41,7 @@ Field Program Manager, Carey Lab, Virginia Tech
 {::nomarkdown}</div></div>{:/nomarkdown}
 
 {::nomarkdown}<div class="one-fourth">{:/nomarkdown}
-![Austin Delany](https://ih1.redbubble.net/image.319291377.1118/st,small,507x507-pad,600x600,f8f8f8.u2.jpg){: .profile-img}
+![Austin Delany](../assets/images/austin.jpg){: .profile-img}
 ### [<i class="fa fa-link" aria-hidden="true"></i> Austin Delany](https://www.ecoforecastprojectvt.org/about-us)
 {::nomarkdown}<div class="bio">{:/nomarkdown}
 Data Scientist, Ecological Forecasting Project, Virginia Tech
