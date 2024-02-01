@@ -9,13 +9,13 @@ Our ecosystem monitoring, data publishing, and forecasting program is focused on
 
 ## Falling Creek Reservoir
 
-![Falling Creek Reservoir](../assests/images/FCR.jpg)
+![Falling Creek Reservoir](../assets/images/FCR.jpg)
 
 Falling Creek Reservoir is a shallow (maximum depth at full pond = 9.3 m), small (0.119 square km) reservoir located at 37.30325, -79.8373. Falling Creek Reservoir has a hypolimnetic oxygenation (side-stream supersaturation) system, which maintains the hypolimnion as oxic during the summer stratified period.
 
 ## Beaverdam Reservoir
 
-![Beaverdam Reservoir](../assests/images/BVR.jpg)
+![Beaverdam Reservoir](../assets/images/BVR.jpg)
 
 Beaverdam Reservoir is a shallow (maximum depth at full pond = 13.4 m), small (0.39 square km) reservoir located at 37.314783, -79.820864. The hypolimnion of Beaverdam Reservoir quickly becomes anoxic after the onset of summer stratification.
 
