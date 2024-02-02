@@ -75,7 +75,7 @@ Post-doctoral associate, Department of Biological Sciences, Virginia Tech
 PhD Student, Carey Lab, Department of Biological Sciences, Virginia Tech
 {::nomarkdown}</div></div>{:/nomarkdown}
 
-{::nomarkdown}<div class="one-fourth-last">{:/nomarkdown}
+{::nomarkdown}<div class="one-fourth">{:/nomarkdown}
 ![Abby Lewis](../assets/images/Abby.jpg){: .profile-img}
 ### [<i class="fa fa-link" aria-hidden="true"></i> Abby Lewis](https://carey.biol.vt.edu/?page_id=1525)
 {::nomarkdown}<div class="bio">{:/nomarkdown}
