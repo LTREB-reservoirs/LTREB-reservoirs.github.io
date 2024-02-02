@@ -9,7 +9,11 @@ header:
 
 ## Publications: Foundational Knowledge
 
+Carey, C.C., R.P. McClure, J.P. Doubek, M.E. Lofton, N.K. Ward, D.T. Scott. 2018. *Chaoborus* spp. Transport CH4 from the Sediments to the Surface Waters of a Eutrophic Reservoir, But Their Contribution to Water Column CH4 Concentrations and Diffusive Efflux Is Minor. *Environmental Science and Technology* 52: 1165–1173 <https://doi.org/10.1021/acs.est.7b04384>
+
 Carey, C.C., P.C. Hanson, R.Q. Thomas, A.B. Gerling, A.G. Hounshell, A.S. Lewis, M.E. Lofton, R.P. McClure, H.L. Wander, W.M. Woelmer, B.R. Niederlehner, and M.E. Schreiber. 2022. Anoxia decreases the magnitude of the carbon, nitrogen, and phosphorus sink in freshwaters. *Global Change Biology*. 28: 4861-4881. [https://doi.org/10.1111/gcb.16228](https://doi.org/10.1111/gcb.16228)
+
+Chen, S., J.C. Little, C.C. Carey, J.P. McClure, M.E. Lofton, and C. Lei. 2018. Three‐Dimensional Effects of Artificial Mixing in a Shallow Drinking‐Water Reservoir. *Water Resources Research* 54: 425-441 < https://doi.org/10.1002/2017WR021127>.
 
 Doubek, J.P., K.L. Campbell, M.E. Lofton, R.P. McClure, and C.C. Carey. 2019 Hypolimnetic hypoxia increases the biomass and compositional variability of crustacean zooplankton communities. *Water*. 11(10):2179. [https://doi.org/10.3390/w11102179](https://doi.org/10.3390/w11102179)
 
