@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Virginia Reservoirs:"
-excerpt: "An NSF-funded Long Term Research in Environmental Biology (LTREB) site"
+title: "Virginia Reservoirs LTREB:"
+excerpt: "An NSF-funded Long-Term Research in Environmental Biology site"
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/banner.jpg
