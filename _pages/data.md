@@ -87,7 +87,7 @@ Biology/Chemistry/Physics: High-frequency sensored platform data
 Biology: Chaoborus spp. zooplankton
 - [Published](https://portal.edirepository.org/nis/mapbrowse?packageid=edi.828.1)
 
-### Tunnel Branch
+## Tunnel Branch
 
 Manually-collected discharge
 - [Published](https://portal.edirepository.org/nis/mapbrowse?packageid=edi.454.6)
@@ -98,7 +98,7 @@ Sensored discharge
 Organic carbon loads
 - [Published](https://portal.edirepository.org/nis/mapbrowse?packageid=edi.127.1)
 
-### Ancillary
+## Ancillary
 
 Model configurations for GLM-AED
 - [Published](https://portal.edirepository.org/nis/mapbrowse?packageid=edi.1127.1)
