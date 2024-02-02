@@ -5,13 +5,13 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/banner.jpg
 ---
-# Products using data from Virginia Reservoirs LTREB since 2019
+# Products using data from Virginia Reservoirs LTREB since 2018
 
 ## Publications: Foundational Knowledge
 
-Carey, C.C., P.C. Hanson, R.Q. Thomas, A.B. Gerling, A.G. Hounshell, A.S. Lewis, M.E. Lofton, R.P. McClure, H.L. Wander, W.M. Woelmer, B.R. Niederlehner, and M.E. Schreiber. Anoxia decreases the magnitude of the carbon, nitrogen, and phosphorus sink in freshwaters. *Global Change Biology*. 28: 4861-4881. [https://doi.org/10.1111/gcb.16228](https://doi.org/10.1111/gcb.16228)
+Carey, C.C., P.C. Hanson, R.Q. Thomas, A.B. Gerling, A.G. Hounshell, A.S. Lewis, M.E. Lofton, R.P. McClure, H.L. Wander, W.M. Woelmer, B.R. Niederlehner, and M.E. Schreiber. 2022. Anoxia decreases the magnitude of the carbon, nitrogen, and phosphorus sink in freshwaters. *Global Change Biology*. 28: 4861-4881. [https://doi.org/10.1111/gcb.16228](https://doi.org/10.1111/gcb.16228)
 
-Doubek, J.P., K.L. Campbell, M.E. Lofton, R.P. McClure, and C.C. Carey. Hypolimnetic hypoxia increases the biomass and compositional variability of crustacean zooplankton communities. *Water*. 11(10):2179. [https://doi.org10.3390/w11102179](https://doi.org10.3390/w11102179)
+Doubek, J.P., K.L. Campbell, M.E. Lofton, R.P. McClure, and C.C. Carey. 2019 Hypolimnetic hypoxia increases the biomass and compositional variability of crustacean zooplankton communities. *Water*. 11(10):2179. [https://doi.org/10.3390/w11102179](https://doi.org/10.3390/w11102179)
 
 Hammond, N.W., F. Birgand, C.C. Carey, B.J. Bookout, A. Breef-Pilz, and M.E. Schreiber. 2023. High-frequency sensor data capture short-term variability in Fe and Mn cycling due to hypolimnetic oxygenation and seasonal dynamics in a drinking water reservoir. *Water Research*. 240: 120084. [https://doi.org/10.1016/j.watres.2023.120084](https://doi.org/10.1016/j.watres.2023.120084)
 
@@ -51,9 +51,9 @@ Man, X, C. Lei, C.C. Carey, and J.C. Little. 2021. Relative performance of 1-D v
 
 McClure, R.P., R.Q. Thomas, M.E. Lofton, W.M. Woelmer, and C.C. Carey. 2021. Iterative forecasting improves near-term predictions of methane ebullition rates. *Frontiers in Environmental Science*. 9: 756603. [https://doi.org/10.3389/fenvs.2021.756603](https://doi.org/10.3389/fenvs.2021.756603) 
 
-Olsson, F, T.N. Moore, C.C. Carey, A. Breef-Pilz, and R.Q. Thomas. 2023. A multi-model ensemble of baseline and process-based models improves the predictive skill of near-term lake forecasts. Accepted at *Water Resources Research* Pre-print <https://doi.org/10.22541/essoar.169049097.75300247/v1>
+Olsson, F, T.N. Moore, C.C. Carey, A. Breef-Pilz, and R.Q. Thomas. A multi-model ensemble of baseline and process-based models improves the predictive skill of near-term lake forecasts. Accepted at *Water Resources Research* Pre-print <https://doi.org/10.22541/essoar.169049097.75300247/v1>
 
-Thomas, R.Q, R.J. Figueiredo, V. Daneshmand, B.J. Bookout, L. Puckett, and C.C. Carey. A near-term iterative forecasting system successfully predicts reservoir hydrodynamics and partitions uncertainty. *Water Resources Research*. 56, e2019WR026138. [https://doi.org/10.1029/2019WR026138](https://doi.org/10.1029/2019WR026138)
+Thomas, R.Q, R.J. Figueiredo, V. Daneshmand, B.J. Bookout, L. Puckett, and C.C. Carey. 2020. A near-term iterative forecasting system successfully predicts reservoir hydrodynamics and partitions uncertainty. *Water Resources Research*. 56, e2019WR026138. [https://doi.org/10.1029/2019WR026138](https://doi.org/10.1029/2019WR026138)
 
 Wander, H.L., R.Q Thomas, T.N. Moore, M.E. Lofton, A. Breef-Pilz, C.C. Carey. Data assimilation experiments inform monitoring needs for near-term ecological forecasts in a eutrophic reservoir. Accepted at *Ecosphere.* [https://doi.org/10.22541/essoar.168500255.59108131/v1](https://doi.org/10.22541/essoar.168500255.59108131/v1)
 
@@ -63,7 +63,7 @@ Woelmer, W.W., R.Q. Thomas, M.E. Lofton, R.P. McClure, and C.C. Carey. 2022. Nea
 
 Carey, C.C. Causes and consequences of changing oxygen in lakes. In press at *Inland Waters*. [https://doi.org/10.1080/20442041.2023.2239110](https://doi.org/10.1080/20442041.2023.2239110)
 
-Figary, S.E. and 135 co-authors (ZIG participants), including C.C. Carey, H.L. WanderG, and J.P. DoubekG. 2022. Building a worldwide freshwater zooplankton dataset to synthesize patterns of zooplankton community structure and change. *L&O Bulletin*. 31(4): 132-133. [https://doi.org/10.1002/lob.10515](https://doi.org/10.1002/lob.10515) 
+Figary, S.E. and 135 co-authors (ZIG participants), including C.C. Carey, H.L. Wander, and J.P. Doubek. 2022. Building a worldwide freshwater zooplankton dataset to synthesize patterns of zooplankton community structure and change. *L&O Bulletin*. 31(4): 132-133. [https://doi.org/10.1002/lob.10515](https://doi.org/10.1002/lob.10515) 
 
 Weyhenmeyer, G.A., U. Obertegger, H. Rudebeck, E. Jakobsson, J. Jansen, G. Zdorovennova, S. Bansal, B.D. Block, C.C. Carey, J.P. Doubek, H. Dugan, O. Erina, I. Fedorova, J.M. Fischer, L. Grinberga, H.-P. Grossart, K. Kangur, L.B. Knoll, A. Laas, F. Lepori, J. Meier, N. Palshin, M. Peternell, M. Pulkkanen, J.A. Rusak, S. Sharma, D. Wain, and R. Zdorovennov. 2022. Towards critical white ice conditions in lakes under global warming. *Nature Communications*. 13: 4974. [https://doi.org/0.1038/s41467-022-32633-1](https://doi.org/0.1038/s41467-022-32633-1)
 
