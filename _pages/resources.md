@@ -11,10 +11,7 @@ The resources and products from FLARE include papers, data, educational modules,
 ## Technical papers
 
 
-Thomas, R.Q, R.P. McClure, T.N. Moore, W.M. Woelmer, C. Boettiger, R.J. Figueiredo, R.T. Hensley, C.C. Carey, 
-"Near-term forecasts of NEON lakes reveal gradients of environmental predictability across the U.S.",
-Accepted Frontiers in Ecology and Environment, 222.
-Pre-print: [https://doi.org/10.1002/essoar.10510642.1](https://doi.org/10.1002/essoar.10510642.1)
+Thomas, R.Q, R.P. McClure, T.N. Moore, W.M. Woelmer, C. Boettiger, R.J. Figueiredo, R.T. Hensley, C.C. Carey. Near-term forecasts of NEON lakes reveal gradients of environmental predictability across the U.S. Frontiers in Ecology and Environment 21: 220–226. <https://doi.org/10.1002/fee.2623>
 
 Woelmer, Whitney M. and Bradley, L. M. and Haber, Lisa T. and Klinges, David H. and Lewis, Abigail S. and Mohr, Elizabeth J. and Torrens, Christa L. and Wheeler, Kathryn I. and Willson, Alyssa M.,
 "Ten simple rules for training yourself in an emerging field.",
