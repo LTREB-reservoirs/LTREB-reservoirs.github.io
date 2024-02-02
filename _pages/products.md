@@ -25,7 +25,7 @@ Krueger, K.M., C.E. Vavrus, M.E. Lofton, R.P. McClure, P. Gantzer, C.C. Carey, a
 
 Lewis, A.S.L., M.E. Schreiber, B.R. Niederlehner, A. Das, N.W. Hammond, M.E. Lofton, H.L. Wander, and C.C. Carey. 2023. Effects of hypoxia on coupled carbon and iron cycling differ between weekly and multiannual timescales in two freshwater reservoirs. *Journal of Geophysical Research: Biogeosciences*. 128: e2022JG007071. [https://doi.org/10.1029/2022JG007071](https://doi.org/10.1029/2022JG007071) 
 
-Lewis, A.S.L , A. Breef-Pilz, D. Howard, M.E. Lofton, F. Olsson, H.L. Wander, C.E. Wood, M. Schreiber, C.C. Carey. Reservoir drawdown highlights the emergent effects of water level change on reservoir physics, chemistry, and biology. ESS Open Archive. <https://doi.org/10.22541/essoar.169592581.18728999/v1>
+Lewis, A.S.L , A. Breef-Pilz, D. Howard, M.E. Lofton, F. Olsson, H.L. Wander, C.E. Wood, M. Schreiber, C.C. Carey. Reservoir drawdown highlights the emergent effects of water level change on reservoir physics, chemistry, and biology. *ESS Open Archive*. <https://doi.org/10.22541/essoar.169592581.18728999/v1>
 
 Lofton, M.E., D.W. Howard, R.P. McClure, H.L. Wander, W.M. Woelmer, A.G. Hounshell, A.S. Lewis, and C.C. Carey. 2022. Experimental thermocline deepening alters vertical distribution and community structure of phytoplankton in a four-year whole-reservoir manipulation. *Freshwater Biology*. 67: 1903-1924. [https://doi.org/10.1111/fwb.13983](https://doi.org/10.1111/fwb.13983) 
 
@@ -49,7 +49,7 @@ Daneshmand, V., A. Breef-Pilz, C.C. Carey, Y. Jin, Y.-J. Ku, K. Subratie, R.Q. T
 
 Daw, A., R.Q. Thomas, C.C. Carey, J.S. Read, A.P. Appling, and A. Karpatne. 2020. Physics-guided architecture (PGA) of neural networks for quantifying uncertainty in lake temperature modeling. *Proceedings of the 2020 SIAM International Conference on Data Mining*. 532-540. [https://doi.org/10.1137/1.9781611976236.60](https://doi.org/10.1137/1.9781611976236.60)
 
-Kurucz, K., C.C. Carey, P. Huang, E.R. De Sousa, J. White, M.R. Hipsey. Using System-Inspired Metrics to Improve Water Quality Prediction in Stratified Lakes. ESS Open Archive. <10.22541/essoar.170224508.83776495/v1>
+Kurucz, K., C.C. Carey, P. Huang, E.R. De Sousa, J. White, M.R. Hipsey. Using System-Inspired Metrics to Improve Water Quality Prediction in Stratified Lakes. *ESS Open Archive*. <https://doi.org/10.22541/essoar.170224508.83776495/v1>
 
 Man, X, C. Lei, C.C. Carey, and J.C. Little. 2021. Relative performance of 1-D versus 3-D hydrodynamic, water-quality models for predicting water temperature and oxygen in a shallow, eutrophic, managed reservoir. *Water*. 13(1), 88. [https://doi.org/10.3390/w13010088](https://doi.org/10.3390/w13010088) 
 
