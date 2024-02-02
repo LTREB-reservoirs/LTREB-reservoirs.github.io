@@ -9,15 +9,23 @@ header:
 
 ## Publications: Foundational Knowledge
 
+Carey, C.C. , J.P. Doubek, R.P. McClure, and P.C. Hanson. 2018. Oxygen dynamics control the burial of organic carbon in a eutrophic reservoir. *Limnology and Oceanography Letters* 3: 293-301. <https://doi.org/10.1002/lol2.10057>
+
 Carey, C.C., R.P. McClure, J.P. Doubek, M.E. Lofton, N.K. Ward, D.T. Scott. 2018. *Chaoborus* spp. Transport CH4 from the Sediments to the Surface Waters of a Eutrophic Reservoir, But Their Contribution to Water Column CH4 Concentrations and Diffusive Efflux Is Minor. *Environmental Science and Technology* 52: 1165–1173 <https://doi.org/10.1021/acs.est.7b04384>
 
 Carey, C.C., P.C. Hanson, R.Q. Thomas, A.B. Gerling, A.G. Hounshell, A.S. Lewis, M.E. Lofton, R.P. McClure, H.L. Wander, W.M. Woelmer, B.R. Niederlehner, and M.E. Schreiber. 2022. Anoxia decreases the magnitude of the carbon, nitrogen, and phosphorus sink in freshwaters. *Global Change Biology*. 28: 4861-4881. [https://doi.org/10.1111/gcb.16228](https://doi.org/10.1111/gcb.16228)
 
 Chen, S., J.C. Little, C.C. Carey, J.P. McClure, M.E. Lofton, and C. Lei. 2018. Three‐Dimensional Effects of Artificial Mixing in a Shallow Drinking‐Water Reservoir. *Water Resources Research* 54: 425-441 < https://doi.org/10.1002/2017WR021127>.
 
+Chen,S, C.C. Carey, J.C. Little, M.E. Lofton, R.P. McClure, and C. Lei. 2018. Effectiveness of a bubble-plume mixing system for managing phytoplankton in lakes and reservoirs. *Ecological Engineering* 113: 43-51. <https://doi.org/10.1016/j.ecoleng.2018.01.002>
+
+Doubek, J.P., K.L. Campbell, K.M. Doubek, K.D. Hamre, M.E. Lofton, R.P. McClure, N.K. Ward, and C.C. Carey. 2018. The effects of hypolimnetic anoxia on the diel vertical migration of freshwater crustacean zooplankton. *Ecosphere* 9:e02332. <https://doi.org/10.1002/ecs2.2332> 
+
 Doubek, J.P., K.L. Campbell, M.E. Lofton, R.P. McClure, and C.C. Carey. 2019 Hypolimnetic hypoxia increases the biomass and compositional variability of crustacean zooplankton communities. *Water*. 11(10):2179. [https://doi.org/10.3390/w11102179](https://doi.org/10.3390/w11102179)
 
 Hammond, N.W., F. Birgand, C.C. Carey, B.J. Bookout, A. Breef-Pilz, and M.E. Schreiber. 2023. High-frequency sensor data capture short-term variability in Fe and Mn cycling due to hypolimnetic oxygenation and seasonal dynamics in a drinking water reservoir. *Water Research*. 240: 120084. [https://doi.org/10.1016/j.watres.2023.120084](https://doi.org/10.1016/j.watres.2023.120084)
+
+Hamre, K.D., M.E. Lofton, R.P. McClure, Z.W. Munger, J.P. Doubek, A.B. Gerling, M.E. Schreiber, and C.C. Carey. 2018. In situ fluorometry reveals a persistent, perennial hypolimnetic cyanobacterial bloom in a seasonally anoxic reservoir. *Freshwater Science* 37: 483-495 <https://doi.org/10.1086/699327> 
 
 Hounshell, A.G., B.M. D’Acunha, A. Breef-Pilz, M.S. Johnson, R.Q. Thomas, and C.C. Carey. 2023. Eddy covariance data reveal that a small freshwater reservoir emits a substantial amount of carbon dioxide and methane. *Journal of Geophysical Research-Biogeosciences*. 128: e2022JG007091. [https://doi.org/10.1029/2022JG007091](https://doi.org/10.1029/2022JG007091)
 
@@ -72,6 +80,8 @@ Woelmer, W.W., R.Q. Thomas, M.E. Lofton, R.P. McClure, and C.C. Carey. 2022. Nea
 Carey, C.C. Causes and consequences of changing oxygen in lakes. In press at *Inland Waters*. [https://doi.org/10.1080/20442041.2023.2239110](https://doi.org/10.1080/20442041.2023.2239110)
 
 Figary, S.E. and 135 co-authors (ZIG participants), including C.C. Carey, H.L. Wander, and J.P. Doubek. 2022. Building a worldwide freshwater zooplankton dataset to synthesize patterns of zooplankton community structure and change. *L&O Bulletin*. 31(4): 132-133. [https://doi.org/10.1002/lob.10515](https://doi.org/10.1002/lob.10515) 
+
+Leach, T.H.. B.E. Beisner, C.C. Carey, P. Pernica, K.C. Rose, Y. Huot, J.A. Brentrup, I. Domaizon, H‐P. Grossart, B.W. Ibelings, S. Jacquet, P.T. Kelly, J.A. Rusak, J.D. Stockwell, D. Straile, and P. Verburg. 2018. Patterns and drivers of deep chlorophyll maxima structure in 100 lakes: The relative importance of light and thermal stratification. *Limnology and Oceanography* 63: 628-646 <https://doi.org/10.1002/lno.10656>
 
 Weyhenmeyer, G.A., U. Obertegger, H. Rudebeck, E. Jakobsson, J. Jansen, G. Zdorovennova, S. Bansal, B.D. Block, C.C. Carey, J.P. Doubek, H. Dugan, O. Erina, I. Fedorova, J.M. Fischer, L. Grinberga, H.-P. Grossart, K. Kangur, L.B. Knoll, A. Laas, F. Lepori, J. Meier, N. Palshin, M. Peternell, M. Pulkkanen, J.A. Rusak, S. Sharma, D. Wain, and R. Zdorovennov. 2022. Towards critical white ice conditions in lakes under global warming. *Nature Communications*. 13: 4974. [https://doi.org/0.1038/s41467-022-32633-1](https://doi.org/0.1038/s41467-022-32633-1)
 
