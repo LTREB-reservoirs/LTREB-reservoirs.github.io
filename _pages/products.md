@@ -5,7 +5,7 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/banner.jpg
 ---
-# Products since 2019
+# Products using data from Virginia Reservoirs LTREB since 2019
 
 ## Publications: Foundational Knowledge
 
@@ -51,6 +51,8 @@ Man, X, C. Lei, C.C. Carey, and J.C. Little. 2021. Relative performance of 1-D v
 
 McClure, R.P., R.Q. Thomas, M.E. Lofton, W.M. Woelmer, and C.C. Carey. 2021. Iterative forecasting improves near-term predictions of methane ebullition rates. *Frontiers in Environmental Science*. 9: 756603. [https://doi.org/10.3389/fenvs.2021.756603](https://doi.org/10.3389/fenvs.2021.756603) 
 
+Olsson, F, T.N. Moore, C.C. Carey, A. Breef-Pilz, and R.Q. Thomas. 2023. A multi-model ensemble of baseline and process-based models improves the predictive skill of near-term lake forecasts. Accepted at *Water Resources Research* Pre-print <https://doi.org/10.22541/essoar.169049097.75300247/v1>
+
 Thomas, R.Q, R.J. Figueiredo, V. Daneshmand, B.J. Bookout, L. Puckett, and C.C. Carey. A near-term iterative forecasting system successfully predicts reservoir hydrodynamics and partitions uncertainty. *Water Resources Research*. 56, e2019WR026138. [https://doi.org/10.1029/2019WR026138](https://doi.org/10.1029/2019WR026138)
 
 Wander, H.L., R.Q Thomas, T.N. Moore, M.E. Lofton, A. Breef-Pilz, C.C. Carey. Data assimilation experiments inform monitoring needs for near-term ecological forecasts in a eutrophic reservoir. Accepted at *Ecosphere.* [https://doi.org/10.22541/essoar.168500255.59108131/v1](https://doi.org/10.22541/essoar.168500255.59108131/v1)
@@ -59,7 +61,7 @@ Woelmer, W.W., R.Q. Thomas, M.E. Lofton, R.P. McClure, and C.C. Carey. 2022. Nea
 
 ## Publications: Synthesis
 
-Carey, C.C. Causes and consequences of changing oxygen in lakes. In press at Inland Waters. [https://doi.org/10.1080/20442041.2023.2239110](https://doi.org/10.1080/20442041.2023.2239110)
+Carey, C.C. Causes and consequences of changing oxygen in lakes. In press at *Inland Waters*. [https://doi.org/10.1080/20442041.2023.2239110](https://doi.org/10.1080/20442041.2023.2239110)
 
 Figary, S.E. and 135 co-authors (ZIG participants), including C.C. Carey, H.L. WanderG, and J.P. DoubekG. 2022. Building a worldwide freshwater zooplankton dataset to synthesize patterns of zooplankton community structure and change. *L&O Bulletin*. 31(4): 132-133. [https://doi.org/10.1002/lob.10515](https://doi.org/10.1002/lob.10515) 
 
