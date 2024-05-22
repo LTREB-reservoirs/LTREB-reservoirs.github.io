@@ -93,7 +93,7 @@ PhD Student, Carey Lab, Department of Biological Sciences, Virginia Tech
 
 ## [<i class="fa fa-link" aria-hidden="true"></i> Western Virginia Water Authority](https://www.westernvawater.org)  
 The mission of the Western Virginia Water Authority is to protect and manage essential water resources through the delivery of quality water and wastewater service to our customers.
-## [<i class="fa fa-link" aria-hidden="true"></i> Virginia Tech Center for Ecosystem Forecasting](https://www.ecoforecastprojectvt.org/)  
+## [<i class="fa fa-link" aria-hidden="true"></i> Virginia Tech Center for Ecosystem Forecasting](https://ecoforecast.centers.vt.edu/)  
 Predicting nature like we predict the weather: rigorously, reliably, and with uncertainty quantified.
 ## [<i class="fa fa-link" aria-hidden="true"></i> GLEON](http://gleon.org)  
 The Global Lake Ecological Observatory Network conducts innovative science by sharing and interpreting high-resolution sensor data to understand, predict, and communicate the role and response of lakes in a changing global environment.
