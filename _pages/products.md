@@ -95,7 +95,7 @@ Woelmer, W.W., R.Q. Thomas, M.E. Lofton, R.P. McClure, and C.C. Carey. 2022. Nea
 
 ## Publications: Synthesis
 
-Carey, C.C. Causes and consequences of changing oxygen in lakes. 2023 *Inland Waters* 3: 316-326 <https://doi.org/10.1080/20442041.2023.2239110>
+Carey, C.C. 2023. Causes and consequences of changing oxygen in lakes. *Inland Waters* 3: 316-326 <https://doi.org/10.1080/20442041.2023.2239110>
 
 Doubek, J.P., and C.C. Carey. 2017. Catchment, morphometric, and water quality characteristics differ between reservoirs and naturally formed lakes on a latitudinal gradient in the conterminous United States. *Inland Waters* 7:171-180. <https://doi.org/20442041.2017.1293317>
 
@@ -103,7 +103,7 @@ Figary, S.E. and 135 co-authors (ZIG participants), including C.C. Carey, H.L. W
 
 Leach, T.H.. B.E. Beisner, C.C. Carey, P. Pernica, K.C. Rose, Y. Huot, J.A. Brentrup, I. Domaizon, H‐P. Grossart, B.W. Ibelings, S. Jacquet, P.T. Kelly, J.A. Rusak, J.D. Stockwell, D. Straile, and P. Verburg. 2018. Patterns and drivers of deep chlorophyll maxima structure in 100 lakes: The relative importance of light and thermal stratification. *Limnology and Oceanography* 63: 628-646 <https://doi.org/10.1002/lno.10656>
 
-Lewis, A.S.L.G, M.P. Lau, S.F. Jane, K.C. Rose, Y. Be’eri-Shlevin, S.H. Burnet, F. Clayer, H. Feuchtmayr, H.-P. Grossart, D.W. HowardG, H. Mariash, J.D. Martin, R.L. North, I. Oleksy, R.M. Pilla, A.P. Smagula, R. Sommaruga, S.E. Steiner, P. Verburg, D. Wain, G.A. Weyhenmeyer, and C.C. Carey. 2024. Anoxia begets anoxia: a positive feedback to the deoxygenation of temperate lakes. *Global Change Biology* 30: e17046. <https://doi.org/10.1111/gcb.17046>
+Lewis, A.S.L., M.P. Lau, S.F. Jane, K.C. Rose, Y. Be’eri-Shlevin, S.H. Burnet, F. Clayer, H. Feuchtmayr, H.-P. Grossart, D.W. HowardG, H. Mariash, J.D. Martin, R.L. North, I. Oleksy, R.M. Pilla, A.P. Smagula, R. Sommaruga, S.E. Steiner, P. Verburg, D. Wain, G.A. Weyhenmeyer, and C.C. Carey. 2024. Anoxia begets anoxia: a positive feedback to the deoxygenation of temperate lakes. *Global Change Biology* 30: e17046. <https://doi.org/10.1111/gcb.17046>
 
 Hampton, S.E., A.W.E. Galloway, S.M. Powers, T. Ozersky, K.H. Woo, R.D. Batt, S.G. Laboo, C.M. O’Reilly, S. Sharma, N.R. Lottig, E.H. Stanley, R.L. North, J.D. Stockwell, R. Adrian, G.A. Weyhenmeyer, L. Arvola, H.M. Baulch, I. Bertani, L.L. Bowman, C.C. Carey, J. Catalan, W. Colom-Montero, L.M. Domine, M. Felip, I. Granados, C. Gries, H.-P. Grossart, J. Haberman, M. Haldna, B. Hayden, S.N. Higgins, J.C. Jolly, K.K. Kahilainen, E. Kaup, M.J. Kehoe, S. MacIntyre, A.W. Mackay, H.L. Mariash, R. M. McKay, B. Nixdorf, P. Noges, T. Noges, M. Palmer, D.C. Pierson, D.M. Post, M.J. Pruett, M. Rautio, J.S. Read, S.L. Roberts, J. Rucker, S. Sadro, E.A. Silow, D.E. Smith, R.W. Sterner, G.E.A. Swann, M.A. Timofeyev, M. Toro, M.R. Twiss, R.G. Vogt, S.B. Watson, E.J. Whiteford, and M.A. Xenopoulos. 2017. Ecology under lake ice. *Ecology Letters* 20:98-111. <https://doi.org/10.1111/ele.1269>
 
