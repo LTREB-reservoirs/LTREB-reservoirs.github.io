@@ -89,13 +89,13 @@ Olsson, F, T.N. Moore, C.C. Carey, A. Breef-Pilz, and R.Q. Thomas. A multi-model
 
 Thomas, R.Q, R.J. Figueiredo, V. Daneshmand, B.J. Bookout, L. Puckett, and C.C. Carey. 2020. A near-term iterative forecasting system successfully predicts reservoir hydrodynamics and partitions uncertainty. *Water Resources Research*. 56, e2019WR026138. [https://doi.org/10.1029/2019WR026138](https://doi.org/10.1029/2019WR026138)
 
-Wander, H.L., R.Q Thomas, T.N. Moore, M.E. Lofton, A. Breef-Pilz, C.C. Carey. Data assimilation experiments inform monitoring needs for near-term ecological forecasts in a eutrophic reservoir. *Ecosphere* 15: e4752. [https://doi.org/10.1002/ecs2.4752](https://doi.org/10.1002/ecs2.4752]
+Wander, H.L., R.Q Thomas, T.N. Moore, M.E. Lofton, A. Breef-Pilz, C.C. Carey. Data assimilation experiments inform monitoring needs for near-term ecological forecasts in a eutrophic reservoir. *Ecosphere* 15: e4752. <https://doi.org/10.1002/ecs2.4752>
 
 Woelmer, W.W., R.Q. Thomas, M.E. Lofton, R.P. McClure, and C.C. Carey. 2022. Near-term phytoplankton forecasts reveal the effects of model time step and forecast horizon on predictability. *Ecological Applications*. 32: e2642. [https://doi.org/10.1002/eap.2642](https://doi.org/10.1002/eap.2642) 
 
 ## Publications: Synthesis
 
-Carey, C.C. Causes and consequences of changing oxygen in lakes. In press at *Inland Waters*. [https://doi.org/10.1080/20442041.2023.2239110](https://doi.org/10.1080/20442041.2023.2239110)
+Carey, C.C. Causes and consequences of changing oxygen in lakes. 2023 *Inland Waters* 3: 316-326 <https://doi.org/10.1080/20442041.2023.2239110>
 
 Doubek, J.P., and C.C. Carey. 2017. Catchment, morphometric, and water quality characteristics differ between reservoirs and naturally formed lakes on a latitudinal gradient in the conterminous United States. *Inland Waters* 7:171-180. <https://doi.org/20442041.2017.1293317>
 
