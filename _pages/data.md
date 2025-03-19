@@ -42,8 +42,9 @@ Chemistry: greenhouse gas depth profiles
 Chemistry: carbon, nitrogen, phosphorus
 - [Published](https://portal.edirepository.org/nis/mapbrowse?scope=edi&identifier=199)
 
-Chemistry: iron, manganese
+Chemistry: iron, manganese and other metals
 - [Published](https://portal.edirepository.org/nis/mapbrowse?scope=edi&identifier=455)
+- [Provisional](https://raw.githubusercontent.com/CareyLabVT/Reservoirs/master/Data/DataNotYetUploadedToEDI/Metals_Data/metals_L1.csv)
 
 Chemistry: iron, manganese sensored data
 - [Published](https://portal.edirepository.org/nis/mapbrowse?scope=edi&identifier=1360)
