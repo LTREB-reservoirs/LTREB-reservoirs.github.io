@@ -22,7 +22,7 @@ Biology: filtered chlorophyll
 
 Biology: phytoplankton community composition
 - [Published](https://portal.edirepository.org/nis/mapbrowse?scope=edi&identifier=272)
-- [Provisional](https://github.com/CareyLabVT/Reservoirs/raw/master/Data/DataNotYetUploadedToEDI/Raw_fluoroprobe/fluoroprobe_L1.csv)
+- [Provisional](https://github.com/CareyLabVT/Reservoirs/raw/master/Data/DataNotYetUploadedToEDI/FluoroProbe/fluoroprobe_L1.csv)
 
 Biology: zooplankton community composition
 - [Published](https://portal.edirepository.org/nis/mapbrowse?scope=edi&identifier=197)
