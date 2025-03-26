@@ -69,14 +69,14 @@ PhD Student, Carey Lab, Department of Biological Sciences, Virginia Tech
 {::nomarkdown}</div></div>{:/nomarkdown}
 
 {::nomarkdown}<div class="one-fourth">{:/nomarkdown}
-![Dominique Edwards](../assets/images/heather.jpg){: .profile-img}
+![Dominique Edwards](../assets/images/dom.jpg){: .profile-img}
 ### [<i class="fa fa-link" aria-hidden="true"></i> Dominique Edwards](https://globalchange.vt.edu/graduate/people-of-the-igc/current-fellows/edwards-dominique.html)
 {::nomarkdown}<div class="bio">{:/nomarkdown}
 PhD Student, Carey Lab, Department of Biological Sciences, Virginia Tech
 {::nomarkdown}</div></div>{:/nomarkdown}
 
 {::nomarkdown}<div class="one-fourth">{:/nomarkdown}
-![Maria Popescu](../assets/images/Abby.jpg){: .profile-img}
+![Maria Popescu](../assets/images/maria.jpg){: .profile-img}
 ### [<i class="fa fa-link" aria-hidden="true"></i> Maria Popescu](https://globalchange.vt.edu/graduate/people-of-the-igc/current-fellows/popescu-maria.html)
 {::nomarkdown}<div class="bio">{:/nomarkdown}
 PhD Student, Carey Lab, Department of Biological Sciences, Virginia Tech
@@ -97,7 +97,7 @@ PhD Student, Schreiber Lab, Department of Geosciences, Virginia Tech
 {::nomarkdown}</div></div>{:/nomarkdown}
 
 {::nomarkdown}<div class="one-fourth">{:/nomarkdown}
-![Carly Bauer](../assets/images/carly.jpg){: .profile-img}
+![Carly Bauer](../assets/images/carly.jpeg){: .profile-img}
 ### [<i class="fa fa-link" aria-hidden="true"></i> Carly Bauer](https://geos.vt.edu/people/Everyone/bauer--carly.html)
 {::nomarkdown}<div class="bio">{:/nomarkdown}
 MS Student, Schreiber Lab, Department of Geosciences, Virginia Tech
@@ -128,12 +128,12 @@ Professor, IRES, Earth, Ocean and Atmospheric Sciences, Canada Research Chair (T
 # Alumni
 
 ## Postdocs
-Ryan McClure
+Ryan McClure/n
 Alexandria Hounshell
 Kaitlin Farrell
 
 ## Graduate
-Rick Browne
+Rick Browne/n
 Alexandra Gerling
 Kathleen Hamre
 Jonathan Doubek
@@ -163,7 +163,7 @@ Alexandria Hounshell
 Kaitlin Farrell
 
 ## Undergraduate
-Miranda Flood
+Miranda Flood/n
 Elle Humes
 Christina Urbancyzk
 Mariah Haberman
