@@ -22,7 +22,7 @@ Biology: filtered chlorophyll
 
 Biology: phytoplankton community composition
 - [Published](https://portal.edirepository.org/nis/mapbrowse?scope=edi&identifier=272)
-- [Provisional](https://github.com/CareyLabVT/Reservoirs/raw/master/Data/DataNotYetUploadedToEDI/Raw_fluoroprobe/fluoroprobe_L1.csv)
+- [Provisional](https://github.com/CareyLabVT/Reservoirs/raw/master/Data/DataNotYetUploadedToEDI/FluoroProbe/fluoroprobe_L1.csv)
 
 Biology: zooplankton community composition
 - [Published](https://portal.edirepository.org/nis/mapbrowse?scope=edi&identifier=197)
@@ -42,14 +42,12 @@ Chemistry: greenhouse gas depth profiles
 Chemistry: carbon, nitrogen, phosphorus
 - [Published](https://portal.edirepository.org/nis/mapbrowse?scope=edi&identifier=199)
 
-Chemistry: iron, manganese
+Chemistry: iron, manganese, and other metals
 - [Published](https://portal.edirepository.org/nis/mapbrowse?scope=edi&identifier=455)
+- [Provisional](https://raw.githubusercontent.com/CareyLabVT/Reservoirs/master/Data/DataNotYetUploadedToEDI/Metals_Data/metals_L1.csv)
 
 Chemistry: iron, manganese sensored data
 - [Published](https://portal.edirepository.org/nis/mapbrowse?scope=edi&identifier=1360)
-
-Chemistry: pH
-- [Published](https://portal.edirepository.org/nis/mapbrowse?scope=edi&identifier=198)
   
 Chemistry: silica
 - [Published](https://portal.edirepository.org/nis/mapbrowse?scope=edi&identifier=542) 
@@ -63,10 +61,14 @@ Chemistry: sediment trap
 Physics: ice cover
 - [Published](https://portal.edirepository.org/nis/mapbrowse?scope=edi&identifier=456)
   
-Physics: light availability- Secchi depth & PAR profiles
+Physics/Chemistry: light availability- Secchi depth, PAR profiles, DO and temperature profiles, specific conductance, and pH
 - [Published](https://portal.edirepository.org/nis/mapbrowse?scope=edi&identifier=198)
 - [Provisional: Seechi](https://raw.githubusercontent.com/CareyLabVT/Reservoirs/master/Data/DataNotYetUploadedToEDI/Secchi/secchi_L1.csv)
-- [Provisional: PAR Profiles](https://raw.githubusercontent.com/CareyLabVT/Reservoirs/master/Data/DataNotYetUploadedToEDI/YSI_PAR/ysi_L1.csv)
+- [Provisional: PAR and other Profiles](https://raw.githubusercontent.com/CareyLabVT/Reservoirs/master/Data/DataNotYetUploadedToEDI/YSI_PAR/ysi_L1.csv)
+
+Physics: Manually-collected discharge
+- [Published](https://portal.edirepository.org/nis/mapbrowse?scope=edi&identifier=454)
+- [Provisional](https://raw.githubusercontent.com/CareyLabVT/Reservoirs/master/Data/DataNotYetUploadedToEDI/Raw_Discharge/ManualDischarge_L1.csv)
 
 ## FCR
 
@@ -95,9 +97,6 @@ Biology: Chaoborus spp. zooplankton
 
 ## Tunnel Branch
 
-Manually-collected discharge
-- [Published](https://portal.edirepository.org/nis/mapbrowse?scope=edi&identifier=454)
-  
 Sensored discharge
 - [Published](https://portal.edirepository.org/nis/mapbrowse?scope=edi&identifier=202)
 - [Provisional](https://github.com/CareyLabVT/Reservoirs/raw/master/Data/DataNotYetUploadedToEDI/Raw_inflow/WVWA_weirInflow_L1.csv)
