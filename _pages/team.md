@@ -128,14 +128,14 @@ Professor, IRES, Earth, Ocean and Atmospheric Sciences, Canada Research Chair (T
 # Alumni
 
 ## Postdocs
-Ryan McClure/n
-Alexandria Hounshell
+Ryan McClure\n
+Alexandria Hounshell\n
 Kaitlin Farrell
 
 ## Graduate
-Rick Browne/n
-Alexandra Gerling
-Kathleen Hamre
+Rick Browne\n
+Alexandra Gerling\n
+Kathleen Hamre\n
 Jonathan Doubek
 Ryan McClure
 Mary Lofton
@@ -163,7 +163,7 @@ Alexandria Hounshell
 Kaitlin Farrell
 
 ## Undergraduate
-Miranda Flood/n
+Miranda Flood\n
 Elle Humes
 Christina Urbancyzk
 Mariah Haberman
