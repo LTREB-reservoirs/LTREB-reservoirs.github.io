@@ -128,78 +128,72 @@ Professor, IRES, Earth, Ocean and Atmospheric Sciences, Canada Research Chair (T
 # Alumni
 
 ## Postdocs
-Ryan McClure\n
-Alexandria Hounshell\n
-Kaitlin Farrell
+- Ryan McClure
+- Alexandria Hounshell
+- Kaitlin Farrell
 
 ## Graduate
-Rick Browne\n
-Alexandra Gerling\n
-Kathleen Hamre\n
-Jonathan Doubek
-Ryan McClure
-Mary Lofton
-Nicole Ward
-Whitney Woelmer
-Abigail Lewis
-Heather Wander
-Dexter Howard
-Kathryn Hoffman
-Bibek Kandel
-Dominique Edwards
-Maria Popescu
-Zackary Munger
-Katie Krueger
-Nick Hammond
-Cecelia Wood
-Cissy Ming
-Carly Bauer
-Rachel Corrigan
-Rohit Shukla
-Freya Olsson
-Mary Lofton
-Ryan McClure
-Alexandria Hounshell
-Kaitlin Farrell
+- Rick Browne
+- Alexandra Gerling
+- Kathleen Hamre
+- Jonathan Doubek
+- Ryan McClure
+- Mary Lofton
+- Nicole Ward
+- Whitney Woelmer
+- Abigail Lewis
+- Heather Wander
+- Dexter Howard
+- Kathryn Hoffman
+- Bibek Kandel
+- Dominique Edwards
+- Maria Popescu
+- Zackary Munger
+- Katie Krueger
+- Nick Hammond
+- Cecelia Wood
+- Cissy Ming
+- Carly Bauer
+- Rachel Corrigan
 
 ## Undergraduate
-Miranda Flood\n
-Elle Humes
-Christina Urbancyzk
-Mariah Haberman
-Mariah Redmond
-Charlotte Harrell
-Zach Gajewski
-Madeline Ryan
-Spencer Klepatzki
-Katie Krueger
-Joseph Famularo
-Leah Finegold
-Kylie Campbell
-Dexter Howard
-Arianna Krinos
-Miles Goodall
-Niall Goard
-Beatrice Scott
-Claire Vavrus
-James Maze
-Ashley Mickens
-Rose Thai
-Jacob Wynne
-Arpita Das
-Caroline Bryant
-Beckett Geisler
-Connor Gnasso
-Nick Ruszkowski
-Mitchell Turnage
-George Haynie
-Evelyn Tipper
-Michael Kricheldorf
-Ryan Keverline
-Sierra Tannheiser
-Sean Kenny
-Tallory Wendell
-Matthew Centofanti
-Quin Campbell
-Erin Walters
-Arwen Downum
+- Miranda Flood
+- Elle Humes
+- Christina Urbancyzk
+- Mariah Haberman
+- Mariah Redmond
+- Charlotte Harrell
+- Zach Gajewski
+- Madeline Ryan
+- Spencer Klepatzki
+- Katie Krueger
+- Joseph Famularo
+- Leah Finegold
+- Kylie Campbell
+- Dexter Howard
+- Arianna Krinos
+- Miles Goodall
+- Niall Goard
+- Beatrice Scott
+- Claire Vavrus
+- James Maze
+- Ashley Mickens
+- Rose Thai
+- Jacob Wynne
+- Arpita Das
+- Caroline Bryant
+- Beckett Geisler
+- Connor Gnasso
+- Nick Ruszkowski
+- Mitchell Turnage
+- George Haynie
+- Evelyn Tipper
+- Michael Kricheldorf
+- Ryan Keverline
+- Sierra Tannheiser
+- Sean Kenny
+- Tallory Wendell
+- Matthew Centofanti
+- Quin Campbell
+- Erin Walters
+- Arwen Downum
