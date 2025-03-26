@@ -100,6 +100,6 @@ The Global Lake Ecological Observatory Network conducts innovative science by sh
 ## [<i class="fa fa-link" aria-hidden="true"></i> Macrosystems EDDIE](http://macrosystemseddie.org)  
 Macrosystems EDDIE (Environmental Data-Driven Inquiry & Exploration) builds flexible teaching modules to teach undergraduate students macrosystems ecology concepts while building their simulation modeling and computing skills.
 ## [<i class="fa fa-link" aria-hidden="true"></i> Renato Figueiredo, Oregon State University](https://engineering.oregonstate.edu/people/renato-figueiredo)  
-Professor,School of Electrical Engineering and Computer Science, Oregon State University
+Professor, School of Electrical Engineering and Computer Science, Oregon State University
 ## [<i class="fa fa-link" aria-hidden="true"></i> Mark Johnson, University of British Columbia](https://ecohydro.ires.ubc.ca)  
 Professor, IRES, Earth, Ocean and Atmospheric Sciences, Canada Research Chair (T2, Ecohydrology)
