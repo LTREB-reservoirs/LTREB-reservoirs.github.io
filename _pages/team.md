@@ -19,7 +19,7 @@ Professor, Carey Lab, Department of Biological Sciences, Virginia Tech
 ![R. Quinn Thomas](../assets/images/quinn.jpg){: .profile-img}
 ### [<i class="fa fa-link" aria-hidden="true"></i> Dr. Quinn Thomas](https://www.rquinnthomas.com){: .clear-both}
 {::nomarkdown}<div class="bio">{:/nomarkdown}
-Associate Professor, Department of Forest Resources & Environmental Conservation, Virginia Tech
+Professor, Department of Forest Resources & Environmental Conservation, Virginia Tech
 {::nomarkdown}</div></div>{:/nomarkdown}
 
 {::nomarkdown}<div class="one-fourth-last">{:/nomarkdown}
@@ -37,14 +37,14 @@ Professor, Department of Geoscience, Virginia Tech
 ![Adrienne Breef-Pilz](../assets/images/Adrienne.jpg){: .profile-img}
 ### [<i class="fa fa-link" aria-hidden="true"></i> Adrienne Breef-Pilz](https://carey.biol.vt.edu/?page_id=1615)
 {::nomarkdown}<div class="bio">{:/nomarkdown}
-Field Program Manager, Carey Lab, Virginia Tech
+Field Program Manager, Carey Lab & Center for Ecosystem Forecasting, Virginia Tech
 {::nomarkdown}</div></div>{:/nomarkdown}
 
 {::nomarkdown}<div class="one-fourth">{:/nomarkdown}
 ![Austin Delany](../assets/images/austin.jpg){: .profile-img}
 ### [<i class="fa fa-link" aria-hidden="true"></i> Austin Delany](https://www.ecoforecastprojectvt.org/about-us)
 {::nomarkdown}<div class="bio">{:/nomarkdown}
-Data Scientist, Ecological Forecasting Project, Virginia Tech
+Data Scientist, Center for Ecosystem Forecasting, Virginia Tech
 {::nomarkdown}</div></div>{:/nomarkdown}
 
 {::nomarkdown}<div class="one-fourth">{:/nomarkdown}
@@ -58,7 +58,7 @@ PhD Student, Carey Lab, Department of Biological Sciences, Virginia Tech
 ![Mary Lofton](../assets/images/MaryLofton.jpg){: .profile-img}
 ### [<i class="fa fa-link" aria-hidden="true"></i> Mary Lofton](https://www.maryelofton.com/)
 {::nomarkdown}<div class="bio">{:/nomarkdown}
-Post-doctoral associate, Carey Lab, Department of Biological Sciences, Virginia Tech
+Research Scientist, Center for Ecosystem Forecasting, Virginia Tech
 {::nomarkdown}</div></div>{:/nomarkdown}
 
 {::nomarkdown}<div class="one-fourth clear-both">{:/nomarkdown}
@@ -99,7 +99,7 @@ Predicting nature like we predict the weather: rigorously, reliably, and with un
 The Global Lake Ecological Observatory Network conducts innovative science by sharing and interpreting high-resolution sensor data to understand, predict, and communicate the role and response of lakes in a changing global environment.
 ## [<i class="fa fa-link" aria-hidden="true"></i> Macrosystems EDDIE](http://macrosystemseddie.org)  
 Macrosystems EDDIE (Environmental Data-Driven Inquiry & Exploration) builds flexible teaching modules to teach undergraduate students macrosystems ecology concepts while building their simulation modeling and computing skills.
-## [<i class="fa fa-link" aria-hidden="true"></i> Renato Figueiredo, University of Florida](http://acis.ufl.edu)  
-Professor, ACIS Lab, Department of Electrical & Computer Engineering, University of Florida
+## [<i class="fa fa-link" aria-hidden="true"></i> Renato Figueiredo, Oregon State University](https://engineering.oregonstate.edu/people/renato-figueiredo)  
+Professor,School of Electrical Engineering and Computer Science, Oregon State University
 ## [<i class="fa fa-link" aria-hidden="true"></i> Mark Johnson, University of British Columbia](https://ecohydro.ires.ubc.ca)  
 Professor, IRES, Earth, Ocean and Atmospheric Sciences, Canada Research Chair (T2, Ecohydrology)
