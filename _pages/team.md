@@ -110,6 +110,13 @@ MS Student, Schreiber Lab, Department of Geosciences, Virginia Tech
 Post-doctoral associate, Carey Lab, Department of Biological Sciences, Virginia Tech
 {::nomarkdown}</div></div>{:/nomarkdown}
 
+{::nomarkdown}<div class="one-fourth-last">{:/nomarkdown}
+![Bibek Kandel](../assets/images/bibek.jpg){: .profile-img}
+### [<i class="fa fa-link" aria-hidden="true"></i> Bibek Kandel](https://ecoforecast.centers.vt.edu/about.html)
+{::nomarkdown}<div class="bio">{:/nomarkdown}
+PhD Student, Carey Lab, Department of Biological Sciences, Virginia Tech
+{::nomarkdown}</div></div>{:/nomarkdown}
+
 # Partners
 
 ## [<i class="fa fa-link" aria-hidden="true"></i> Western Virginia Water Authority](https://www.westernvawater.org)  
