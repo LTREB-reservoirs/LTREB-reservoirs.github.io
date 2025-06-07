@@ -139,7 +139,7 @@ Professor, IRES, Earth, Ocean and Atmospheric Sciences, Canada Research Chair (T
 - Alexandria Hounshell
 - Kaitlin Farrell
 
-## Graduate
+## Graduate students
 - Rick Browne
 - Alexandra Gerling
 - Kathleen Hamre
@@ -163,7 +163,7 @@ Professor, IRES, Earth, Ocean and Atmospheric Sciences, Canada Research Chair (T
 - Carly Bauer
 - Rachel Corrigan
 
-## Undergraduate
+## Undergraduate students
 - Miranda Flood
 - Elle Humes
 - Christina Urbancyzk
