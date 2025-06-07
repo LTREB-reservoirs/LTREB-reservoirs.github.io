@@ -37,7 +37,7 @@ Professor, Department of Geoscience, Virginia Tech
 ![Adrienne Breef-Pilz](../assets/images/Adrienne.jpg){: .profile-img}
 ### [<i class="fa fa-link" aria-hidden="true"></i> Adrienne Breef-Pilz](https://carey.biol.vt.edu/?page_id=1615)
 {::nomarkdown}<div class="bio">{:/nomarkdown}
-Field Program Manager, Carey Lab & Center for Ecosystem Forecasting, Virginia Tech
+Ecosystem Data and Lab Manager, Carey Lab & Center for Ecosystem Forecasting, Virginia Tech
 {::nomarkdown}</div></div>{:/nomarkdown}
 
 {::nomarkdown}<div class="one-fourth">{:/nomarkdown}
